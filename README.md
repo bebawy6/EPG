@@ -1,4 +1,4 @@
-# EPG  ---- *Arabic EPG*
+# EPG  ---- *Arabic EPG* ----
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=215&color=9cf&cacheSeconds=3600)
 ![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=98.62%&color=yellow&cacheSeconds=3600)
 
@@ -65,15 +65,15 @@
 |<img src="https://media.elcinema.com/tvguide/1227_1.png" width="100" height="50">|Sada-ElBalad-Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1279_1.png" width="100" height="50">|Sada-El-Balad2|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TEN-1|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee-Alwan|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1262_1.png" width="100" height="50">|Zee-Aflam|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|~~Zee-Alwan~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1262_1.png" width="100" height="50">|~~Zee-Aflam~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1150_1.png" width="100" height="50">|Cinema-1|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1151_1.png" width="100" height="50">|Cinema-2|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1360_1.png" width="100" height="50">|Salam-TV|http://www.elcinema.com|
 |<img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Melody_Aflam.png" width="100" height="50">|Melody-Aflam|https://tvtv.ca|
 |<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Melody_Drama.png" width="100" height="50">|Melody-Drama|https://tvtv.ca|
 |<img src="https://upload.wikimedia.org/wikipedia/en/7/70/Al_Ahly_Tv_Logo.jpg" width="100" height="50">|~~Al-Ahly-TV~~|https://streamingtvguides.com|
-|<img src="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" width="100" height="50">|AGHAPY-TV|https://streamingtvguides.com|
+|<img src="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" width="100" height="50">|~~AGHAPY-TV~~|https://streamingtvguides.com|
 ||||
 ||Emarats Group||
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|AL-EMARAT-TV|http://www.elcinema.com|
@@ -114,6 +114,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017" width="100" height="50">|Aljazeera Documentary|http://www.bein.net|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Al-Arabiyalogo.svg/330px-Al-Arabiyalogo.svg.png" width="100" height="50">|Al-Arabiya|https://streamingtvguides.com|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/330px-Logo_BBC_Arabic.png" width="100" height="50">|BBC Arabic News|https://streamingtvguides.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 ||||
 ||Music Group||
 |<img src="http://content.osn.com/logo/channel/cropped/AGH.png" width="100" height="50">|Aghani Aghani|http://www.osn.com|
@@ -232,4 +233,3 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NIC.png" width="100" height="50">|OSN Nickelodeon|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NJR.png" width="100" height="50">|OSN Nick Jr|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BTV.png" width="100" height="50">|Bloomberg|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
