@@ -501,31 +501,31 @@
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ElMaqar.png" />
   </channel>
   <channel id="USA : CBSN HD">
-    <display-name lang="en">CBSN HD</display-name>
+    <display-name lang="en">USA : CBSN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/CBSN.png" />
   </channel>
   <channel id="USA : FXM HD">
-    <display-name lang="en">FXM HD</display-name>
+    <display-name lang="en">USA : FXM HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/FXM.png" />
   </channel>
   <channel id="USA : NESN HD">
-    <display-name lang="en">NESN HD</display-name>
+    <display-name lang="en">USA : NESN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/NESN.png" />
   </channel>
   <channel id="USA : STADIUM HD 1">
-    <display-name lang="en">STADIUM HD 1</display-name>
+    <display-name lang="en">USA : STADIUM HD 1</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD 2">
-    <display-name lang="en">STADIUM HD 2</display-name>
+    <display-name lang="en">USA : STADIUM HD 2</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD 3">
-    <display-name lang="en">STADIUM HD 3</display-name>
+    <display-name lang="en">USA : STADIUM HD 3</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD ORIGINAL">
-    <display-name lang="en">STADIUM HD ORIGINAL</display-name>
+    <display-name lang="en">USA : STADIUM HD ORIGINAL</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
   </channel>
   <programme start="20201017000000 +0100" stop="20201017010000 +0100" channel="USA : NBC LOS ANGELES">
