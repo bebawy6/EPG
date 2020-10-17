@@ -500,6 +500,14 @@
     <display-name lang="en">AR:ElMaqar</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ElMaqar.png" />
   </channel>
+  <channel id="AR:CTV">
+    <display-name lang="en">AR:CTV</display-name>
+    <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/CTV.png" />
+  </channel>
+  <channel id="AR:Logos">
+    <display-name lang="en">AR:Logos"</display-name>
+    <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/Logos.png" />
+  </channel>
   <channel id="USA : CBSN HD">
     <display-name lang="en">USA : CBSN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/CBSN.png" />
