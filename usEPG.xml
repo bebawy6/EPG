@@ -1,689 +1,552 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="USA EPG" generator-info-url="usEPG">
   <channel id="USA : NBC LOS ANGELES">
     <display-name lang="en">USA : NBC LOS ANGELES</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nbc.knbc.los.angeles.ca.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ABC LOS ANGELES">
     <display-name lang="en">USA : ABC LOS ANGELES</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/abc.kabc.los.angeles.ca.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX LOS ANGELES">
     <display-name lang="en">USA : FOX LOS ANGELES</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.kttv.los.angeles.ca.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX NEWS HD">
     <display-name lang="en">USA : FOX NEWS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.news.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CNN HD">
     <display-name lang="en">USA : CNN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnn.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CNBC HD">
     <display-name lang="en">USA : CNBC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cnbc.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MSNBC HD">
     <display-name lang="en">USA : MSNBC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/msnbc.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HGTV">
     <display-name lang="en">USA : HGTV</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hgtv.usa.pacific.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOOD NETWORK">
     <display-name lang="en">USA : FOOD NETWORK</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/food.network.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : COOKING CHANNEL HD">
     <display-name lang="en">USA : COOKING CHANNEL HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/the.cooking.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : WWE Network HD">
     <display-name lang="en">USA : WWE Network HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/wwe.network.ca.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TENNIS HD">
     <display-name lang="en">USA : TENNIS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/the.tennis.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MLB NETWORK HD">
     <display-name lang="en">USA : MLB NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mlb.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ESPN HD">
     <display-name lang="en">USA : ESPN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/espn.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ESPN 2 HD">
     <display-name lang="en">USA : ESPN 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/espn2.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NBA TV">
     <display-name lang="en">USA : NBA TV</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nba.tv.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : BBC AMERICA HD">
     <display-name lang="en">USA : BBC AMERICA HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/bbc.america.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : BBC WORLD NEWS HD">
     <display-name lang="en">USA : BBC WORLD NEWS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/bbc.world.north.america.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : A&amp;amp;E HD">
     <display-name lang="en">USA : A&amp;amp;E HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ae.us.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : AMC HD">
     <display-name lang="en">USA : AMC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/amc.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ANIMAL PLANET HD">
     <display-name lang="en">USA : ANIMAL PLANET HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/animal.planet.us.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : BABY TV HD">
     <display-name lang="en">USA : BABY TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/baby.tv.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : BOOMERANG HD">
     <display-name lang="en">USA : BOOMERANG HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/boomerang.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : BRAVO HD">
     <display-name lang="en">USA : BRAVO HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/bravo.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CARTOON NETWORK HD">
     <display-name lang="en">USA : CARTOON NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cartoon.network.usa.pacific.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CBS SPORTS NETWORK HD">
     <display-name lang="en">USA : CBS SPORTS NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cbs.sports.network.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : COMEDY CENTRAL HD">
     <display-name lang="en">USA : COMEDY CENTRAL HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/comedy.central.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : COZI HD">
     <display-name lang="en">USA : COZI HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cozi.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CW HD">
     <display-name lang="en">USA : CW HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cw.kvcw.las.vegas.nv.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DESTINATION AMERICA HD">
     <display-name lang="en">USA : DESTINATION AMERICA HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/destination.america.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISCOVERY FAMILY HD">
     <display-name lang="en">USA : DISCOVERY FAMILY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/discovery.family.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISCOVERY HD">
     <display-name lang="en">USA : DISCOVERY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/discovery.channel.us.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISCOVERY LIFE HD">
     <display-name lang="en">USA : DISCOVERY LIFE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/discovery.life.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISNEY CHANNEL HD">
     <display-name lang="en">USA : DISNEY CHANNEL HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/disney.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISNEY JUNIOR HD">
     <display-name lang="en">USA : DISNEY JUNIOR HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/disney.junior.usa.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DISNEY XD HD">
     <display-name lang="en">USA : DISNEY XD HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/disney.xd.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : DIY NETWORK HD">
     <display-name lang="en">USA : DIY NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/do.it.yourself.network.canada.ca.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : E! HD">
     <display-name lang="en">USA : E! HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/e.entertainment.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ELEVEN SPORTS HD">
     <display-name lang="en">USA : ELEVEN SPORTS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/eleven.sports.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ESPN NEWS HD">
     <display-name lang="en">USA : ESPN NEWS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/espn.news.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : ESPN U HD">
     <display-name lang="en">USA : ESPN U HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/espn.u.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FIGHT NETWORK HD">
     <display-name lang="en">USA : FIGHT NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fight.network.canada.ca.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX BUSINESS NETWORK HD">
     <display-name lang="en">USA : FOX BUSINESS NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.business.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX HD">
     <display-name lang="en">USA : FOX HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.br.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS HD 1">
     <display-name lang="en">USA : FOX SPORTS HD 1</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.1.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS HD 2">
     <display-name lang="en">USA : FOX SPORTS HD 2</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.2.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS MIDWEST">
     <display-name lang="en">USA : FOX SPORTS MIDWEST</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.midwest.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS NORTH">
     <display-name lang="en">USA : FOX SPORTS NORTH</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.north.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS PRIMETICKET">
     <display-name lang="en">USA : FOX SPORTS PRIMETICKET</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.west.prime.ticket.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS SOCCER PLUS HD">
     <display-name lang="en">USA : FOX SPORTS SOCCER PLUS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.soccer.plus.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS SOUTH EAST">
     <display-name lang="en">USA : FOX SPORTS SOUTH EAST</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.southeast.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS SOUTH WEST">
     <display-name lang="en">USA : FOX SPORTS SOUTH WEST</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.southwest.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FOX SPORTS WEST">
     <display-name lang="en">USA : FOX SPORTS WEST</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox.sports.west.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FREEFORM HD">
     <display-name lang="en">USA : FREEFORM HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/freeform.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FUSE HD">
     <display-name lang="en">USA : FUSE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fuse.tv.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FX HD">
     <display-name lang="en">USA : FX HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fx.networks.east.coast.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FXX HD">
     <display-name lang="en">USA : FXX HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fxx.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FYI HD">
     <display-name lang="en">USA : FYI HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fyi.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : GINX ESPORTS TV HD">
     <display-name lang="en">USA : GINX ESPORTS TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ginx.esports.tv.canada.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : GOLF HD">
     <display-name lang="en">USA : GOLF HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/golf.channel.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HALLMARK DRAMA HD">
     <display-name lang="en">USA : HALLMARK DRAMA HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hallmark.drama.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HALLMARK HD">
     <display-name lang="en">USA : HALLMARK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hallmark.channel.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HALLMARK MOVIE HD">
     <display-name lang="en">USA : HALLMARK MOVIE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hallmark.movies.mysteries.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO">
     <display-name lang="en">USA : HBO</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO 2 HD">
     <display-name lang="en">USA : HBO 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.2.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO EAST HD">
     <display-name lang="en">USA : HBO EAST HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO FAMILY HD">
     <display-name lang="en">USA : HBO FAMILY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.family.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO WEST HD">
     <display-name lang="en">USA : HBO WEST HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.west.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HBO ZONE HD">
     <display-name lang="en">USA : HBO ZONE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hbo.zone.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HISTORY HD">
     <display-name lang="en">USA : HISTORY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/history.channel.us.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : HLN HD">
     <display-name lang="en">USA : HLN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/hln.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : IFC HD">
     <display-name lang="en">USA : IFC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/independent.film.channel.us.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : INVESTIGATION DISCOVERY HD">
     <display-name lang="en">USA : INVESTIGATION DISCOVERY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/investigation.discovery.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : LIFETIME HD">
     <display-name lang="en">USA : LIFETIME HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/lifetime.network.us.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MAVTV HD">
     <display-name lang="en">USA : MAVTV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mavtv.canada.ca.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MOTOR TREND HD">
     <display-name lang="en">USA : MOTOR TREND HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/motor.trend.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MTV 2 HD">
     <display-name lang="en">USA : MTV 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mtv.2.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MTV CLASSIC HD">
     <display-name lang="en">USA : MTV CLASSIC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mtv.classic.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MTV HD">
     <display-name lang="en">USA : MTV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mtv.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : MTV LIVE HD">
     <display-name lang="en">USA : MTV LIVE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/mtv.live.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NAT GEO HD">
     <display-name lang="en">USA : NAT GEO HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/national.geographic.us.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NAT GEO WILD HD">
     <display-name lang="en">USA : NAT GEO WILD HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/national.geographic.wild.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NBCSN HD">
     <display-name lang="en">USA : NBCSN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nbc.sports.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NFL NETWORK HD">
     <display-name lang="en">USA : NFL NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nfl.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NHL NETWORK HD">
     <display-name lang="en">USA : NHL NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nhl.network.usa.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NICK JR HD">
     <display-name lang="en">USA : NICK JR HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nick.jr.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NICKTOONS HD">
     <display-name lang="en">USA : NICKTOONS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/nicktoons.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : OUTDOOR HD">
     <display-name lang="en">USA : OUTDOOR HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/outdoor.channel.us.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : OUTSIDE TV HD">
     <display-name lang="en">USA : OUTSIDE TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/outside.television.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : OWN HD">
     <display-name lang="en">USA : OWN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/oprah.winfrey.network.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : OXYGEN HD">
     <display-name lang="en">USA : OXYGEN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/oxygen.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : PARAMOUNT NETWORK HD">
     <display-name lang="en">USA : PARAMOUNT NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/paramount.network.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : PBS HD">
     <display-name lang="en">USA : PBS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/pbs.wmem.presque.isle.me.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : POP HD">
     <display-name lang="en">USA : POP HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/pop.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SCIENCE HD">
     <display-name lang="en">USA : SCIENCE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/science.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SEC NETWORK HD">
     <display-name lang="en">USA : SEC NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/sec.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA: SHOW_WWE">
     <display-name lang="en">USA: SHOW_WWE</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/wwe.network.ca.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SONY MOVIES HD">
     <display-name lang="en">USA : SONY MOVIES HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/sony.movie.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SPORTS MAN HD">
     <display-name lang="en">USA : SPORTS MAN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/sportsman.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STARZ EAST HD">
     <display-name lang="en">USA : STARZ EAST HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/starz.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STARZ EDGE  HD">
     <display-name lang="en">USA : STARZ EDGE  HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/starz.edge.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STARZ HD">
     <display-name lang="en">USA : STARZ HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/starz.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STARZ KIDS &amp;amp; FAMILY HD">
     <display-name lang="en">USA : STARZ KIDS &amp;amp; FAMILY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/starz.kids.family.pacific.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SUNDANCE HD">
     <display-name lang="en">USA : SUNDANCE HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/sundancetv.usa.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : SYFY HD">
     <display-name lang="en">USA : SYFY HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/syfy.pacific.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TBS HD">
     <display-name lang="en">USA : TBS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tbs.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TCM HD">
     <display-name lang="en">USA : TCM HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tcm.es.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TELEMUNDO LOS ANGELES">
     <display-name lang="en">USA : TELEMUNDO LOS ANGELES</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/telemundo.kvea.los.angeles.ca.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : THE WEATHER CHANNEL HD">
     <display-name lang="en">USA : THE WEATHER CHANNEL HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/the.weather.channel.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TLC HD">
     <display-name lang="en">USA : TLC HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tlc.usa.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TNT HD">
     <display-name lang="en">USA : TNT HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tnt.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TNT WEST HD">
     <display-name lang="en">USA : TNT WEST HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tnt.pacific.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TRAVEL CHANNEL HD">
     <display-name lang="en">USA : TRAVEL CHANNEL HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/travel.us.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TRU TV HD">
     <display-name lang="en">USA : TRU TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/trutv.usa.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : TV LAND HD">
     <display-name lang="en">USA : TV LAND HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/tv.land.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA: UFC FIGHT PASS HD">
     <display-name lang="en">USA: UFC FIGHT PASS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ufc.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : UNIVERSAL KIDS HD">
     <display-name lang="en">USA : UNIVERSAL KIDS HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/universal.kids.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : USA NETWORK HD">
     <display-name lang="en">USA : USA NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/usa.network.east.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : VH1 HD">
     <display-name lang="en">USA : VH1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/vh1.eastern.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : VSIN HD">
     <display-name lang="en">USA : VSIN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/vsin.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : WE TV HD">
     <display-name lang="en">USA : WE TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/we.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : WILLOW CRICKET HD">
     <display-name lang="en">USA : WILLOW CRICKET HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/willow.cricket.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : WORLD FISGHING NETWORK HD">
     <display-name lang="en">USA : WORLD FISGHING NETWORK HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/wfn.world.fishing.network.us.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="AR:CYC">
     <display-name lang="en">AR:CYC</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/cyc.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="AR:ElMaqar">
     <display-name lang="en">AR:ElMaqar</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/ElMaqar.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="AR:CTV">
     <display-name lang="en">AR:CTV</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/CTV.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="AR:Logos">
     <display-name lang="en">AR:Logos</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/logos.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="Documentary Bil Arabie">
     <display-name lang="en">Documentary Bil Arabie</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/Documentary-Bil-Arabie.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="Planet Earth HD">
     <display-name lang="en">Planet Earth HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/Planet-Earth-HD.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="Bein_Discovery Kids HD">
     <display-name lang="en">Bein_Discovery Kids HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/Discovery_kids.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : CBSN HD">
     <display-name lang="en">USA : CBSN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/CBSN.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : FXM HD">
     <display-name lang="en">USA : FXM HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/FXM.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : NESN HD">
     <display-name lang="en">USA : NESN HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/NESN.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STADIUM HD 1">
     <display-name lang="en">USA : STADIUM HD 1</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STADIUM HD 2">
     <display-name lang="en">USA : STADIUM HD 2</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STADIUM HD 3">
     <display-name lang="en">USA : STADIUM HD 3</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <channel id="USA : STADIUM HD ORIGINAL">
     <display-name lang="en">USA : STADIUM HD ORIGINAL</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
-    <url>http://www.merge-xmltv</url>
   </channel>
   <programme start="20201022000000 +0100" stop="20201022010000 +0100" channel="USA : NBC LOS ANGELES">
     <title lang="en">NBC 4 News at 5:00 p.m.</title>
