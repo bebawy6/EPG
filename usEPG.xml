@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="USA EPG" generator-info-url="usEPG">
+<tv generator-info-name="USA EPG $(timestamp)" generator-info-url="usEPG">
+  <channel id="AR:MBC-Variety">
+    <display-name lang="en">AR:MBC-Variety</display-name>
+    <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png" />
+  </channel>
   <channel id="Fox-Rewayat-HD">
     <display-name lang="en">Fox-Rewayat-HD</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/fox-ruwayat.png" />
@@ -588,6 +592,36 @@
     <display-name lang="en">USA : STADIUM HD ORIGINAL</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/stadium.png" />
   </channel>
+  <programme start="20201113000000 +0000" stop="20201113120000 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
+  <programme start="20201113120000 +0000" stop="20201113235900 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
+  <programme start="20201114000000 +0000" stop="20201114120000 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
+  <programme start="20201114120000 +0000" stop="20201114235900 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
+  <programme start="20201115000000 +0000" stop="20201115120000 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
+  <programme start="20201115120000 +0000" stop="20201115235900 +0000" channel="AR:MBC-Variety">
+    <title lang="en">MBC-Variety</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">MBC-Variety.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113120000 +0000" channel="Fox-Rewayat-HD">
     <title lang="en">Fox-Rewayat-HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
@@ -2961,6 +2995,26 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : NBC LOS ANGELES">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : NBC LOS ANGELES">
+    <title lang="en">George to the Rescue</title>
+    <desc lang="en">George Oliphant comes to the rescue of families in need by renovating their homes.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : NBC LOS ANGELES">
+    <title lang="en">Sunday Today</title>
+    <desc lang="en">This morning show covers breaking news and offers a variety of feature stories.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : NBC LOS ANGELES">
+    <title lang="en">Today in L.A. Weekend</title>
+    <desc lang="en">Get the latest news stories in the morning happening in Los Angeles and throughout Southern California.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : NBC LOS ANGELES">
+    <title lang="en">Meet the Press</title>
+    <desc lang="en">A public affairs program featuring interviews with journalists and newsmakers.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : ABC LOS ANGELES">
     <title lang="en">Eyewitness News 4 p.m.</title>
   </programme>
@@ -3225,6 +3279,20 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : ABC LOS ANGELES">
+    <title lang="en">Eyewitness News 5 a.m.</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : ABC LOS ANGELES">
+    <title lang="en">Good Morning America Sunday</title>
+    <desc lang="en">Bringing viewers up-to-the-minute breaking news and weather as well as topical features.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : ABC LOS ANGELES">
+    <title lang="en">Eyewitness News 7 a.m.</title>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : ABC LOS ANGELES">
+    <title lang="en">This Week With George Stephanopoulos</title>
+    <desc lang="en">A complete newscast with discussions and debates, including interviews and commentary.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FOX LOS ANGELES">
     <title lang="en">FOX11 Pre-Game Show</title>
   </programme>
@@ -3485,6 +3553,29 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">The Key of David</title>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">In Touch Ministries</title>
+    <desc lang="en">Followers learn how to have a growing relationship with Jesus through biblical teachings.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">Fox News Sunday</title>
+    <desc lang="en">Interviews with newsmakers and discussions of current affairs.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : FOX LOS ANGELES">
+    <title lang="en">NFL Kickoff</title>
+    <desc lang="en">A cast of NFL analysts cover team news, strategies, injuries and fantasy information.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : FOX NEWS HD">
     <title lang="en">The Story</title>
     <desc lang="en">Stories that matter with Martha MacCallum.</desc>
@@ -3684,6 +3775,14 @@
   <programme start="20201115110000 +0000" stop="20201115150000 +0000" channel="USA : FOX NEWS HD">
     <title lang="en">Fox &amp;amp; Friends Sunday</title>
     <desc lang="en">Mornings are always a good time with friends.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : FOX NEWS HD">
+    <title lang="en">Sunday Morning Futures</title>
+    <desc lang="en">An inside look at how to prepare financially for the future with business leaders.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : FOX NEWS HD">
+    <title lang="en">MediaBuzz</title>
+    <desc lang="en">Analyzing the coverage of a wide range of topics with panellist debates.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : CNN HD">
     <title lang="en">OutFront</title>
@@ -3924,6 +4023,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : CNN HD">
     <title lang="en">New Day Weekend</title>
     <desc lang="en">Reporting on the latest news and top stories.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : CNN HD">
+    <title lang="en">Inside Politics</title>
+    <desc lang="en">A rotating group of America's top political reporters who will provide an inside look into the key stories for the week.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : CNN HD">
+    <title lang="en">State of the Union With Jake Tapper</title>
+    <desc lang="en">Jake Tapper brings together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : CNN HD">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">A comprehensive look at foreign affairs and the policies shaping our world. Host Fareed Zakaria emphasizes new ideas and innovative approaches to solving the world's toughest problems.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : CNN HD">
+    <title lang="en">Reliable Sources</title>
+    <desc lang="en">A look at how the media cover major news stories.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : CNBC HD">
     <title lang="en">The News With Shepard Smith</title>
@@ -4197,6 +4312,38 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : CNBC HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : MSNBC HD">
     <title lang="en">The ReidOut</title>
     <desc lang="en">Conversations with politicians and newsmakers on political issues of the day.</desc>
@@ -4419,6 +4566,18 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : MSNBC HD">
     <title lang="en">MSNBC Live With Kendis Gibson and Lindsey Reiser</title>
     <desc lang="en">Anchors cover the latest breaking news and provide updates and analyses.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : MSNBC HD">
+    <title lang="en">Velshi</title>
+    <desc lang="en">MSNBC anchor Ali Velshi brings his sharp analysis and point-of-view to weekend mornings.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : MSNBC HD">
+    <title lang="en">Velshi</title>
+    <desc lang="en">MSNBC anchor Ali Velshi brings his sharp analysis and point-of-view to weekend mornings.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : MSNBC HD">
+    <title lang="en">AM Joy</title>
+    <desc lang="en">Joy Reid tackles the most important news and political topics of the week.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : HGTV">
     <title lang="en">Windy City Rehab</title>
@@ -4767,6 +4926,30 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : HGTV">
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : HGTV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : HGTV">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : HGTV">
+    <title lang="en">My Lottery Dream Home</title>
+    <desc lang="en">After these newlyweds bought a lotto ticket at a gas station, they filled up both their gas tank and their bank account. They are on the hunt for their dream home in Columbus, Ohio, where they can start a family.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : HGTV">
+    <title lang="en">My Lottery Dream Home</title>
+    <desc lang="en">Grandpa Jeff takes his 'papa' babysitting duties very seriously, so when he won $1 million in Roanoke, Virginia, he knew his dream home had to include a large backyard for his four grandchildren.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : HGTV">
+    <title lang="en">My Lottery Dream Home</title>
+    <desc lang="en">Scott bought a "22" scratch card at a local garage because it was Paige's lucky number. A million dollar win later, the couple is looking to upgrade their family home in Champaign.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : HGTV">
+    <title lang="en">My Lottery Dream Home</title>
+    <desc lang="en">After lady luck rewards a retired firefighter for a lifetime of service with a big win, dream home hunter David Bromstad helps him search for the perfect bachelor pad in the Lakeland region of Florida.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FOOD NETWORK">
     <title lang="en">Beat Bobby Flay</title>
@@ -5160,6 +5343,38 @@
     <title lang="en">Brunch @ Bobby's</title>
     <desc lang="en">Chef Bobby Flay keeps his Thanksgiving meal going with a brunch full of holiday flavors, making Pumpkin Lattes and Pumpkin-Spiced Granola Parfaits with Orange-Cranberry Jam and Maple Yogurt.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">Barefoot Contessa: Back to Basics</title>
+    <desc lang="en">Ina Garten shares pro tips on pulling off the ultimate make-ahead Thanksgiving feast.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">Valerie's Home Cooking</title>
+    <desc lang="en">Valerie loves classic Thanksgiving dishes but decides to mix it up with new twists on traditional favorites. She previews a menu with friends including turkey roulade with cranberry citrus stuffing and pan gravy, vegetable gratin and a succotash salad.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">The Pioneer Woman</title>
+    <desc lang="en">Ree Drummond makes her must-have Thanksgiving recipes. The feast includes her foolproof simple roasted turkey with an herby butter, easy cornbread and sausage stuffing and classic giblet gravy. Plus, Ree shares the trick to a shortcut cranberry sauce.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">The Pioneer Woman</title>
+    <desc lang="en">Ree Drummond is sharing 100-percent kid-approved recipes that are all quick and easy to make. She starts with mini burgers and bite-sized fries for her fun waffle fry sliders, and the speedy 4-cheese pepperoni pizzadilla.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">The Pioneer Woman</title>
+    <desc lang="en">Ree uses a multicooker to turn seriously delicious short ribs with collards into fast food, and she punches up the flavor in her spicy Brussels Caesar salad.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">The Pioneer Woman</title>
+    <desc lang="en">Ree spills the beans on her Thanksgiving potluck favourites. There's a show stopping pumpkin rum cake with maple whipped cream and, for the main dish, amazing glazed ham. The best broccoli rice casserole and slow cooker sweet potatoes round it out.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">Girl Meets Farm</title>
+    <desc lang="en">It's Thanksgiving on the farm, and Molly Yeh is celebrating the best way she knows how, with lots of food! She makes creamy twice-baked potatoes, a hearty brussels sprout casserole, sweet and sticky orange marmalade glazed ham and a classic, pumpkin pie.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOOD NETWORK">
+    <title lang="en">Trisha's Southern Kitchen</title>
+    <desc lang="en">Trisha hosts a misfit Thanksgiving for her local friends. They get glammed up while she prepares orange maple glazed turkey, rosemary shallot gravy, slow cooker acorn squash, roasted chestnut apple stuffing, champagne with pomegranate and spice cake.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : COOKING CHANNEL HD">
     <title lang="en">Bizarre Foods: Delicious Destinations</title>
     <desc lang="en">Boston is the heart of New England, the birthplace of American independence and home to so many delicious foods that it calls for more than one visit! Andrew Zimmern explores the flavours of Boston neighborhoods.</desc>
@@ -5491,6 +5706,38 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : COOKING CHANNEL HD">
     <title lang="en">Unique Sweets</title>
     <desc lang="en">Featuring Chicago's Salted Caramel and Lovely Bakeshop.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">Unique Sweets</title>
+    <desc lang="en">The most unique sweets to suit your morning cup o' Joe. Abraco may be small in size, but its morning pastries are packed with big bold flavors like black sesame cardamom spiced cake, and saffron sugar babk.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">Unique Sweets</title>
+    <desc lang="en">We bring out the kid in you with places that are sure to satisfy the sweet tooth for all ages.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">Unique Sweets</title>
+    <desc lang="en">An insider's peek into eateries across America that are creating unique desserts. American sweets; soda shop; and classic diner desserts.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">Unique Sweets</title>
+    <desc lang="en">Taste your way from the east coast to the west, feasting on delicious treats.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">The Best Thing I Ever Ate</title>
+    <desc lang="en">Michael Symon, Sunny Anderson and Alton Brown discuss dishes that were unexpectedly good.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">The Best Thing I Ever Ate</title>
+    <desc lang="en">See the most delicious meat to ever hit the grill; Mongolian Pork Chop and Diver Scallops.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">The Best Thing I Ever Ate</title>
+    <desc lang="en">Birds are chirping, flowers are blooming, bellies are full and love is in the air. Celebrate the best meals for any romantic occasion. Alex Guarnaschelli wines and dines with the most amazing gnocchi ever made in New York City.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : COOKING CHANNEL HD">
+    <title lang="en">The Best Thing I Ever Ate</title>
+    <desc lang="en">You don't have to sacrifice incredible food experiences in order to save a buck. Antonia Lofaso keeps her wallet full with irresistible Mexican munchies in Venice Beach, Calif., Duff Goldman saves a ton as he takes on the enormous Orca Platter.</desc>
   </programme>
   <programme start="20201113004000 +0000" stop="20201113010000 +0000" channel="USA : WWE Network HD">
     <title lang="en">WWE Story Time</title>
@@ -6037,6 +6284,25 @@
     <title lang="en">Baseball Seasons</title>
     <desc lang="en">The St. Louis Cardinals led by Bob Gibson, cruise to the National League pennant.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : MLB NETWORK HD">
+    <title lang="en">Play Ball</title>
+    <desc lang="en">One-on-one baseball demonstrations and conversations with some of the top players and personalities in the game, hosted by Harold Reynolds and additional MLB Network Analysts.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : MLB NETWORK HD">
+    <title lang="en">MLB Network Breakdown</title>
+    <desc lang="en">The best breakdowns and demos by MLB Network Analysts are showcased including segments from the 9,600-square foot Studio 42 and on-screen virtual enhancements that are integral to MLB Network's comprehensive coverage of the game.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : MLB NETWORK HD">
+    <title lang="en">MLB Network Special</title>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : MLB NETWORK HD">
+    <title lang="en">MLB Network Presents</title>
+    <desc lang="en">A documentary about eccentric Detroit Tigers rookie, Mark Fidrych, who captivated fans and teammates thanks to his unusual antics on the pitching mound.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : MLB NETWORK HD">
+    <title lang="en">MLB Network Presents</title>
+    <desc lang="en">Long before David Ortiz and Manny, even before Fisk and Buckner, Red Sox Nation began with the impossible dream of 1967.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : ESPN HD">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
@@ -6202,6 +6468,18 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : ESPN HD">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : ESPN HD">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : ESPN HD">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115180000 +0000" channel="USA : ESPN HD">
+    <title lang="en">Sunday NFL Countdown</title>
+    <desc lang="en">Sam Ponder hosts this three-hour pre-game show with NFL analysts, insiders and senior fantasy sports analyst Matthew Berry.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113013000 +0000" channel="USA : ESPN 2 HD">
     <title lang="en">Basketball</title>
@@ -6409,6 +6687,18 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : ESPN 2 HD">
     <title lang="en">NBA Mock Draft</title>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : ESPN 2 HD">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">After the final whistle, College Football Final takes a look at the night's games through highlights and looks at the major storylines headed into next week's slate.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : ESPN 2 HD">
+    <title lang="en">Daily Wager</title>
+    <desc lang="en">Host Doug Kezirian, ESPN sports betting analyst, is joined by sports betting experts as well as ESPN analysts and reporters for discussion on how the day's sports news affects betting.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115180000 +0000" channel="USA : ESPN 2 HD">
+    <title lang="en">Fantasy Football Now</title>
+    <desc lang="en">Host Will Cain and analysts Matthew Berry, Field Yates and licensed physical therapist Stephania Bell provide the latest info on fantasy football news going into the day.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : NBA TV">
     <title lang="en">Basketball Classics</title>
     <desc lang="en">April 9, 2017.</desc>
@@ -6588,6 +6878,14 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : NBA TV">
     <title lang="en">GM School</title>
     <desc lang="en">Five stat savvy fans compete for an opportunity to meet NBA executives. Contestants duels in challenges that test their basketball analytics skills.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115150000 +0000" channel="USA : NBA TV">
+    <title lang="en">Four Quarters</title>
+    <desc lang="en">Dive into some of the most impressive individual quarters in the history of the Golden State Warriors.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : NBA TV">
+    <title lang="en">Basketball Classics</title>
+    <desc lang="en">November 15, 2017.</desc>
   </programme>
   <programme start="20201113010000 +0000" stop="20201113040000 +0000" channel="USA : BBC AMERICA HD">
     <title lang="en">The Hunt for Red October</title>
@@ -7313,6 +7611,45 @@
     <title lang="en">The Travel Show</title>
     <desc lang="en">Explore new destinations around the globe and uncover hidden sides to some of the world's favourite holiday hotspots.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">A report on the day's international news from BBC correspondents around the globe.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">Click</title>
+    <desc lang="en">Take a look at the tools that will revolutionize business and personal life, whether it is e-commerce, new developments and products, or gadgets and games.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115141500 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">A report on the day's international news from BBC correspondents around the globe.</desc>
+  </programme>
+  <programme start="20201115141500 +0000" stop="20201115143000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">Sport Today</title>
+    <desc lang="en">Reporting on all of the latest sports news and results from around the world.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">Made on Earth</title>
+    <desc lang="en">Have a look at the global paper trade which is thriving, despite the ubiquity of digital technology.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115151000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">A report on the day's international news from BBC correspondents around the globe.</desc>
+  </programme>
+  <programme start="20201115151000 +0000" stop="20201115153000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">In the Line of Fire</title>
+    <desc lang="en">The remote valleys of northern Mexico are home to communities of fundamentalist Mormons who fled the United States generations ago to escape what they saw as religious oppression.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">The Burning Scar</title>
+    <desc lang="en">Indonesia is the world's largest exporter of palm oil and in the last two decades vast areas of forest have been cleared to make way for plantations.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">BBC World News</title>
+    <desc lang="en">A report on the day's international news from BBC correspondents around the globe.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : BBC WORLD NEWS HD">
+    <title lang="en">Talking Business Asia</title>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : A&amp;amp;E HD">
     <title lang="en">The First 48</title>
     <desc lang="en">In Mobile, a man who turned his life around is gunned down in cold blood. Detectives need to know if his troubled past came back to haunt him.</desc>
@@ -7628,6 +7965,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : A&amp;amp;E HD">
     <title lang="en">Hoarders</title>
     <desc lang="en">Len lives in a home stuffed full of garbage bags where he keeps all his belongings. If he doesn't clean up, his family fears his house will kill him.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : A&amp;amp;E HD">
+    <title lang="en">Hoarders</title>
+    <desc lang="en">Jackie has filled her 4,000 square foot San Francisco hillside home with $1 million of teddy bears. Richard previously agreed to his family's pleas for an emergency cleanup of his home.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : A&amp;amp;E HD">
+    <title lang="en">Hoarders</title>
+    <desc lang="en">The tragic loss of Ellen's husband in the line of duty triggered hoarding through kleptomania. Gloria's family is on the verge of calling the sheriff.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : A&amp;amp;E HD">
+    <title lang="en">Hoarders</title>
+    <desc lang="en">Dorothy and David fell in love with each other over their mutual love of hoarding. Their home is so packed now it has become physically unsafe for Dorothy, and doctors have said one more fall in the hoard could paralyze her.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : A&amp;amp;E HD">
+    <title lang="en">Hoarders</title>
+    <desc lang="en">Kathy has hoarded out her triplex and a dance studio and is facing financial ruin if she can't clean up and rent out her spaces.</desc>
   </programme>
   <programme start="20201113010000 +0000" stop="20201113033000 +0000" channel="USA : AMC HD">
     <title lang="en">Pretty Woman</title>
@@ -8076,6 +8429,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : ANIMAL PLANET HD">
     <title lang="en">North Woods Law</title>
     <desc lang="en">On land and water, it's the wardens' job to keep people safe. Warden McBrine coordinates a LifeFlight helicopter for the victim of a serious car crash. Warden Buuck spreads the word on boating safety.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : ANIMAL PLANET HD">
+    <title lang="en">North Woods Law</title>
+    <desc lang="en">Harvest season is the game wardens' busiest time. Warden Dudley helps an Amish family save their corn crop from a bear. Wardens Carter and McBrine hunt for a man hiding out in a cabin. Sergeant Thrasher searches for an illegal marijuana crop grower.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : ANIMAL PLANET HD">
+    <title lang="en">The Crocodile Hunter</title>
+    <desc lang="en">Steve Irwin comes face-to-face with the largest living lizard in the world, the Komodo dragon, on the remote islands of Indonesia. These huge powerful reptiles seem lazy and docile, most of the time.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : ANIMAL PLANET HD">
+    <title lang="en">The Crocodile Hunter</title>
+    <desc lang="en">In East Timor, the Australian Army discovered two crocodiles living in appalling conditions. Steve and his team from Australia Zoo are called to undertake a death-defying crocodile rescue.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : ANIMAL PLANET HD">
+    <title lang="en">The Crocodile Hunter</title>
+    <desc lang="en">Steve and his best mate Wes set out on an adventure through the wild islands of Indonesia looking for the best surf. Both accomplished surfers, the pair encounter some of the more venomous snakes of Indonesia as well as lizards and mischievous monkeys.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : BOOMERANG HD">
     <title lang="en">Scooby-Doo! Shaggy's Showdown</title>
@@ -8579,6 +8948,45 @@
     <title lang="en">Dorothy and the Wizard of Oz</title>
     <desc lang="en">Dorothy and her friends are sucked into the Wicked Witch's crystal ball, where they will spend eternity unless Dorothy makes a tough decision and a sacrifice.</desc>
   </programme>
+  <programme start="20201115124500 +0000" stop="20201115130000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">Dorothy and the Wizard of Oz</title>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115131500 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">DC Super Hero Girls</title>
+    <desc lang="en">Supergirl always relies on her strength, but she’ll need more than brawn to stop brainy Catwoman from stealing valuable gems from the local science museum.</desc>
+  </programme>
+  <programme start="20201115131500 +0000" stop="20201115133000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">DC Super Hero Girls</title>
+    <desc lang="en">A fun day for Barbara Gordon and her bestie Harleen Quinzel is turned on its head when, out of nowhere, the villainous Harley Quinn shows up to wreak havoc.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">A Pup Named Scooby-Doo</title>
+    <desc lang="en">A group of kids run a detective agency from their clubhouse with the help of their dog.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">Tom and Jerry Tales</title>
+    <desc lang="en">Cat-and-mouse chase continues in new geographic locales and culturally diverse settings.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">When Cecil Turtle, a customer service representative, intentionally cuts off Bugs' cable TV, Bugs declares war and gets revenge.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : BOOMERANG HD">
+    <title lang="en">The Looney Tunes Show</title>
+    <desc lang="en">Porky decides to run a marathon, threatening how Daffy defines their circle of friends if Porky is the jock, then who is Daffy? Yosemite Sam tries to get his guns back.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : BRAVO HD">
     <title lang="en">Southern Charm</title>
     <desc lang="en">Austen and Madison are back together, and their bond is stronger than ever, but it’s Craig who’s moved in with him after his house was damaged by a flood. Kathryn releases a bit of gossip to Craig and is unprepared for the repercussions.</desc>
@@ -8818,6 +9226,22 @@
   <programme start="20201115120000 +0000" stop="20201115125900 +0000" channel="USA : BRAVO HD">
     <title lang="en">The Real Housewives of Atlanta</title>
     <desc lang="en">Catch the never-before-seen revealing and hilarious moments you didn't see this season.</desc>
+  </programme>
+  <programme start="20201115125900 +0000" stop="20201115140000 +0000" channel="USA : BRAVO HD">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Change is in the air in the OC as Shannon, Gina and Kelly have new significant others and homes. As Shannon takes a tour of Gina's new house, she vents frustrations about Kelly. Braunwyn and Kelly head to their friend Elizabeth's beach house.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : BRAVO HD">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Kelly is focused on her future with fiancé Rick, but wonders how long her recently brokered peace with Shannon will last. Elizabeth and Jimmy bond over their shared Mexican heritage.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : BRAVO HD">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Shannon's got a new house, boyfriend, body and revamped food line to celebrate and is ready to show it all off at her housewarming party. Emily is hopeful that she can finally make peace with Shannon.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : BRAVO HD">
+    <title lang="en">The Real Housewives of Orange County</title>
+    <desc lang="en">Braunwyn attempts to reconcile with Gina, and after a disagreement, the two finally bond over tequila. Emily is shocked when she finds out, while Elizabeth speaks out about her upcoming divorce, and the stress it's putting on her.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : CARTOON NETWORK HD">
     <title lang="en">Craig of the Creek</title>
@@ -9439,6 +9863,46 @@
     <title lang="en">Bob's Burgers</title>
     <desc lang="en">When Bob learns that Linda's mother is coming for a visit, he wants nothing to do with it. Linda has been cracking the whip at home, and sends Bob to fix a leak in the roof she discovered.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115131500 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Joe Pera Talks With You</title>
+    <desc lang="en">As summer ends, you and Joe meet the new middle school year head on with new sneakers and weak cups of coffee.</desc>
+  </programme>
+  <programme start="20201115131500 +0000" stop="20201115133000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Joe Pera Talks With You</title>
+    <desc lang="en">In which Joe Pera, a middle school choir teacher, presents to viewers the importance of Northern Michigan geology, especially iron. Also, copper, azurite, tourmaline, and Lake Superior agate.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115134500 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Joe Pera Talks With You</title>
+    <desc lang="en">In which Joe Pera takes viewers for Saturday morning breakfast at his favorite family restaurant.</desc>
+  </programme>
+  <programme start="20201115134500 +0000" stop="20201115140000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Joe Pera Talks With You</title>
+    <desc lang="en">In which Joe Pera takes viewers along on his 'Fall Loop,' the drive he does every year on the Saturday following Halloween.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Robin goes on a hunt to find his missing, magnificent sandwich. When it is time to re-elect a leader for the Titans, Robin starts a smear campaign against the others to ensure he gets his spot back. Meanwhile, Raven goes back in time for a crucial reason.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Bakugan: Battle Planet</title>
+    <desc lang="en">Dan Kouzu and his friends bond with strange aliens known as Bakugan.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">The Titans get trapped in a T.V show and need to solve the conflict of the episode to get out. After gorging on meat, Beast Boy shares the wonders of being vegetarian. However, the team take being vegetarian way too far.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">Robin's mask hides a horrible secret that he tries desperately to hide. In order to help Cyborg get over his fear of the dark, the Titans organize a slumber party.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">The funny business that happens in between saving the world and being teenagers.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : CARTOON NETWORK HD">
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="en">The funny business that happens in between saving the world and being teenagers.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : CBS SPORTS NETWORK HD">
     <title lang="en">Mixed Martial Arts</title>
     <desc lang="en">Patricio Pitbull vs. Pedro Carvalho.</desc>
@@ -9575,6 +10039,10 @@
   <programme start="20201115090000 +0000" stop="20201115130000 +0000" channel="USA : CBS SPORTS NETWORK HD">
     <title lang="en">Golf</title>
     <desc lang="en">Golf. Round 3.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115170000 +0000" channel="USA : CBS SPORTS NETWORK HD">
+    <title lang="en">That Other Pre-game Show</title>
+    <desc lang="en">CBS Sports Network's top NFL analysts preview the upcoming Sunday games with opinions, analysis and predictions.</desc>
   </programme>
   <programme start="20201113001000 +0000" stop="20201113004500 +0000" channel="USA : COMEDY CENTRAL HD">
     <title lang="en">South Park</title>
@@ -10448,6 +10916,38 @@
     <title lang="en">My Favorite Martian</title>
     <desc lang="en">Clouds of steam pour from Martin's ears after an encounter with Lieutenant Brennan.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : COZI HD">
+    <title lang="en">Earth Odyssey With Dylan Dreyer</title>
+    <desc lang="en">Dylan takes us to the some of the most extreme islands on Earth. We explore the Amazon River islands in South America, then see what's hiding in the trees in the Philippines.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : COZI HD">
+    <title lang="en">Earth Odyssey With Dylan Dreyer</title>
+    <desc lang="en">Dylan takes us back to some of the most unbelievable and unbelievably cold places in the world. From the fields of Patagonia to the high snowy mountains of the Himalayas, we'll explore what thrives and survives in one of the most frigid ecosystems.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : COZI HD">
+    <title lang="en">Consumer 101</title>
+    <desc lang="en">Jack learns how to buy a used car from a Consumer Reports expert, tracks a runaway robot to the robot vacuum lab to see how testers put these little suckers through their paces, and then prepares a game day meal for his friends.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : COZI HD">
+    <title lang="en">A New Leaf</title>
+    <desc lang="en">Heidi Ashcraft and her husband Daniel are about to celebrate their fiftieth wedding anniversary.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : COZI HD">
+    <title lang="en">Vets Saving Pets</title>
+    <desc lang="en">A young French bulldog named Spartacus breaks his leg and needs Dr. Devon Boyd to help him back up on his paws. Seeing eye dog Nina comes in for a routine eye exam. A severe blockage in Kiwi the cat's ear could be hiding something more serious.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : COZI HD">
+    <title lang="en">The Champion Within</title>
+    <desc lang="en">We’ll first meet some of the new faces from the 2020 U.S. Olympic team, including Kerri Walsh Jennings, and Allyson Felix. Plus, the golf program that has made athletes into coaches, and we go inside the Special Olympics.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : COZI HD">
+    <title lang="en">The Office</title>
+    <desc lang="en">Pam interviews for a job in Philadelphia with a manager who gives her deja vu. Dwight brings Angela with him on a mission to clean his elderly Aunt Shirley.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : COZI HD">
+    <title lang="en">The Office</title>
+    <desc lang="en">Pam interviews for a job in Philadelphia with a manager who gives her deja vu. Dwight brings Angela with him on a mission to clean his elderly Aunt Shirley.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : CW HD">
     <title lang="en">Last Man Standing</title>
     <desc lang="en">As Boyd's sense of adventure grows, Mike and Kristen have a different opinions on how much space they should give him. When Mandy and Kyle move into their apartment, they find Ryan isn't a 'fun' landlord.</desc>
@@ -10813,6 +11313,37 @@
     <title lang="en">Meadowland</title>
     <desc lang="en">A couple deals with the disappearance of their son.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : CW HD">
+    <title lang="en">Catholic Mass</title>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : CW HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : CW HD">
+    <title lang="en">Key of David</title>
+    <desc lang="en">Gerald Flurry looks at world news trends and their connection to Bible prophecy.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : DESTINATION AMERICA HD">
     <title lang="en">Epic</title>
   </programme>
@@ -11173,6 +11704,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : DESTINATION AMERICA HD">
     <title lang="en">Extreme RVs</title>
     <desc lang="en">Hemphill Brothers Coach completes a $2 million tour bus, and then it's off to the desert for pro racer Patrick Clark's fully customized toy hauler. Plus, Tyrese Gibson shows off personally designed sprinter.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : DESTINATION AMERICA HD">
+    <title lang="en">Extreme RVs</title>
+    <desc lang="en">RV icon Winnebago Industries builds their most luxurious venture to date; experience the trek towards outer space via the historic NASA Astrovans; tour the bus that music legend Willie Nelson calls his personal home on wheels.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : DESTINATION AMERICA HD">
+    <title lang="en">Extreme RVs</title>
+    <desc lang="en">Powerhouse Coach builds one of the greenest RV's on the planet; the very first and latest in fifth wheel technology; the toughest Unimog in all of Colorado; a $2.4-million dollar Miami chic style from Featherlite Vantare.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : DESTINATION AMERICA HD">
+    <title lang="en">Extreme Yachts</title>
+    <desc lang="en">Richmond Yachts in British Columbia create the largest private yachts in the country.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : DESTINATION AMERICA HD">
+    <title lang="en">Extreme Yachts</title>
+    <desc lang="en">Allseas Yachts in San Diego, California builds a 92-foot luxurious steel modern marvel.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : DISCOVERY FAMILY HD">
     <title lang="en">Cake Boss</title>
@@ -11634,6 +12181,54 @@
     <title lang="en">Littlest Pet Shop: World of Our Own</title>
     <desc lang="en">Jade is consumed by out-of-control curiosity when Simon Puggerson throws a Mystery Costume Party. If she can’t solve the mystery, her curiosity will run rampant and destroy her aloof persona.</desc>
   </programme>
+  <programme start="20201115124500 +0000" stop="20201115130000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Littlest Pet Shop: World of Our Own</title>
+    <desc lang="en">Issues with a limo prevent Edie and her friends from heading to a musical. To cheer her up, the group get to improvising and create their own story.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Littlest Pet Shop</title>
+    <desc lang="en">Blythe is left to manage the shop and keep the peace between Zoe and rival dog model, Madame Pom.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Pound Puppies</title>
+    <desc lang="en">Squirt switches places with an aristocratic dog with his exact likeness.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115141500 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Super Monsters</title>
+    <desc lang="en">When a case of the hiccups prevents Katya from using magic, the other Super Monster try to help her using their favorite family remedies.</desc>
+  </programme>
+  <programme start="20201115141500 +0000" stop="20201115143000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Super Monsters</title>
+    <desc lang="en">Frankie's dad is nervous about performing in front of an audience, so the Super Monsters help him get over his stage fright.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">Pac-Man and the Ghostly Adventures</title>
+    <desc lang="en">Dr. Buttock's latest shenanigans wind up defrosting a Prehistoric Cave-Kid, who is soon pursued by scientists bent on locking him away. Pac and Pals are forced to risk it all and travel back in time to return him to prehistoric PacWorld.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115151500 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Pony Life</title>
+    <desc lang="en">The ponies help Pinkie Pie audition for a televised cooking competition called the Royal Jelly Juggernaut. When the rest of the Mane 6 are caught in a sticky situation, Pinkie Pie has to audition for the Royal Jelly Juggernaut all on her own.</desc>
+  </programme>
+  <programme start="20201115151500 +0000" stop="20201115153000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Pony Life</title>
+    <desc lang="en">Rainbow Dash's competitive spirit is put to the test when a new pony challenges her to a contest unlike any other. Rainbow Dash faces off against Dishwater Slog in loser-take-all race to finally prove which pony is truly the worst.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115154500 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Pony Life</title>
+    <desc lang="en">Applejack finds herself in the midst of an identity crisis when her signature hat becomes a city-wide fashion craze. Applejack joins a group of alternative ponies in the hopes finding a new style to replace her old look.</desc>
+  </programme>
+  <programme start="20201115154500 +0000" stop="20201115160000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Pony Life</title>
+    <desc lang="en">As Pinkie Pie practices for the Royal Jelly Juggernaut, Fluttershy makes an adorable new friend with a dark sense of humor. Fluttershy has to muster all of her cuteness to protect her friends from Bubbles' dark side.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Equestria Girls</title>
+    <desc lang="en">The Equestria Girls have been specially invited by A.K. Yearling to go on the set of the upcoming Daring Do movie and they are overjoyed. For super-fan Rainbow Dash, watching behind the scenes as her favorite heroine comes to life is a dream come true.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : DISCOVERY FAMILY HD">
+    <title lang="en">My Little Pony: Equestria Girls</title>
+    <desc lang="en">When Rarity finds out about a music video competition, she's eager to convince her friends to enter the contest. The winner will not only have their video broadcast on national television, but will also win a huge cash prize for the Camp Everfree repairs.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : DISCOVERY HD">
     <title lang="en">Moonshiners: Master Distiller</title>
     <desc lang="en">Heritage grains meet charred oak as three amateur distillers compete to make the best American Whiskey. Judged by Mark, Digger and Tim, they'll go head to head in a series of challenges to determine who has what it takes to be Master Distiller.</desc>
@@ -11838,6 +12433,26 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : DISCOVERY HD">
     <title lang="en">The Anglerschannel Bass Wrap Up Show</title>
     <desc lang="en">The AC cameras are at Lake Hartwell for the Carhartt College series. Learn about Carolina Rigs on Smith Lake in Alabama, and get gear reviews from Strike King.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : DISCOVERY HD">
+    <title lang="en">Ocean Legacy</title>
+    <desc lang="en">Chasten Whitfield of Brandenton shows us her home waters where she honed her angling skills.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : DISCOVERY HD">
+    <title lang="en">Out Da Bayou</title>
+    <desc lang="en">We go bow fishing in the Buras Marsh.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : DISCOVERY HD">
+    <title lang="en">Homestead Rescue</title>
+    <desc lang="en">Arctic temperatures and a hungry grizzly wreak havoc on a struggling homestead. The Raneys leap to action with huge builds including a blacksmith shop, but tragedy strikes.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : DISCOVERY HD">
+    <title lang="en">Homestead Rescue</title>
+    <desc lang="en">The Raneys build a cabin from scratch for amputee Jeff Tatsch and his wife Carol.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : DISCOVERY HD">
+    <title lang="en">Homestead Rescue</title>
+    <desc lang="en">Marty has to create an evacuation ark for livestock while Matt devises a layer of fire protection to save a homestead in danger of a wildfire.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : DISCOVERY LIFE HD">
     <title lang="en">Mystery Diagnosis</title>
@@ -12110,6 +12725,34 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : DISCOVERY LIFE HD">
     <title lang="en">Addicted</title>
     <desc lang="en">Kristina helps Gina and Sean, a couple which lives in a tent, panhandles and shoots up heroin. Lately, Sean's temper has gotten so bad that he started abusing Gina.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">Addicted</title>
+    <desc lang="en">Amanda is a 31-year-old alcoholic and heroin addict who is jobless, homeless and on probation.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">Many pregnant women are self-conscious about their changing bodies, but not Sherri. Sherri is a third-generation nudist. As her delivery day approaches, she now must decide if she wants her daughter to continue the family legacy.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">On the outside looking in, Tashala appears to be a normal pregnant woman but she isn't. Tashala is HIV-positive and pregnant for the second time. Thankfully, her first child did not contract the virus, but will her second baby be as lucky.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">Phameca suffers from Pica, a medical disorder which causes her to crave the smell of toxic fumes. After losing her first child to SIDS, her husband cannot believe that she is not more careful this time around, but she just can't stop sniffing.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">A young girl is pregnant with her second child and has a BMI of over 50 percent.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">Now that Colette's pregnant, she believes that it's possibly riskier to go off the methadone during pregnancy, than to stay on it.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : DISCOVERY LIFE HD">
+    <title lang="en">I'm Pregnant And ...</title>
+    <desc lang="en">Sarah was 3 months pregnant when she entered prison, and must return there with her newborn for the duration of her sentence.</desc>
   </programme>
   <programme start="20201113000500 +0000" stop="20201113003000 +0000" channel="USA : DISNEY CHANNEL HD">
     <title lang="en">Raven's Home</title>
@@ -13236,6 +13879,42 @@
     <title lang="en">PJ Masks</title>
     <desc lang="en">Three friends turn into superheroes at night when they put on their pyjamas.</desc>
   </programme>
+  <programme start="20201115124500 +0000" stop="20201115130000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">Two puppies who love to have fun take on adventures around their neighbourhood.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The pups lose an important part of Bob's presentation during Take Your Dog to Work Day. Bob, the pugs and Keia run out of popcorn at their first slumber party.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Pikwik Pack</title>
+    <desc lang="en">Suki the hedgehog and her team deliver packages to the residents of Pikwik.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Pikwik Pack</title>
+    <desc lang="en">Suki the hedgehog and her team deliver packages to the residents of Pikwik.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Bluey</title>
+    <desc lang="en">The adventures of Bluey, a loveable puppy who lives with her parents and little sister.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Puppy Dog Pals</title>
+    <desc lang="en">The Pugs search for a real turkey that Chloe can use as a model for her drawing. Rolly must have his favorite limited-edition flavor of dog food for the Annual Friendship Feast.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">T.O.T.S.</title>
+    <desc lang="en">A tenacious penguin and a kind hearted flamingo train to be delivery birds.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">Mira, Royal Detective</title>
+    <desc lang="en">Mira must track down the oil used to light lamps throughout the town. Mira investigates sightings of a legendary gator who is known to be a mischievous shoe thief.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : DISNEY JUNIOR HD">
+    <title lang="en">T.O.T.S.</title>
+    <desc lang="en">A tenacious penguin and a kind hearted flamingo train to be delivery birds.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : DISNEY XD HD">
     <title lang="en">DuckTales</title>
     <desc lang="en">Donald and Penumbra must break out of a Moon Prison and send a warning to Earth about a looming invasion. Meanwhile, Dewey and Webby uncover a sinister conspiracy targeting their family.</desc>
@@ -13702,6 +14381,37 @@
     <title lang="en">Oddbods</title>
     <desc lang="en">Characters with different personalities get together for adventures.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Beyblade Burst Rise</title>
+    <desc lang="en">Dante takes on a member of the Risen 3 on his first roll in the Blading circuit. Meanwhile, Arman is already ahead of the pack.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Pokémon: Sun &amp;amp; Moon - Ultra Adventures</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Gravity Falls</title>
+    <desc lang="en">A new threat leads Mabel to venture into the enchanted realm of the unicorns. Meanwhile, Dipper learns an unexpected twist about the enigmatic Bill Cipher.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">DuckTales</title>
+    <desc lang="en">Donald Duck and his nephews are reunited with Scrooge after moving into McDuck Manor.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Big Hero 6: The Series</title>
+    <desc lang="en">Hiro, Baymax and the rest of the Big Hero 6 team continue their journey to San Fransokyo.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Gravity Falls</title>
+    <desc lang="en">When Dipper wishes he could go back in time and undo a mistake he made, he discovers there is a time machine that can help him do just that. Meanwhile, it's love at first sight for Mabel when she wins a pet pig at the fair.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">The Owl House</title>
+    <desc lang="en">King confides in a carnival fortune teller who makes his dream come true, but it comes at a cost.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : DISNEY XD HD">
+    <title lang="en">Big City Greens</title>
+    <desc lang="en">Young Bill will do whatever it takes to keep the family farm in business. When Tilly and Nancy celebrate Saxon's birthday at a fancy doll store, they set their sights on a seat next to Cantaloupe Sinclair, the tea party's posh VIP.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : DIY NETWORK HD">
     <title lang="en">Maine Cabin Masters</title>
     <desc lang="en">This week the Cabin Masters take a look back and count down the top ten Most Challenging Builds.</desc>
@@ -14013,6 +14723,26 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : DIY NETWORK HD">
     <title lang="en">Bryan Inc.</title>
     <desc lang="en">Bryan and Sarah renovate and sell homes for profit, while balancing a busy home life.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : DIY NETWORK HD">
+    <title lang="en">Bryan Inc.</title>
+    <desc lang="en">Bryan and Sarah renovate and sell homes for profit, while balancing a busy home life.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : DIY NETWORK HD">
+    <title lang="en">Disaster DIY</title>
+    <desc lang="en">Joe-Anne has tried to cover his reno mistakes with decorative touches; racoons moved in.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : DIY NETWORK HD">
+    <title lang="en">Disaster DIY</title>
+    <desc lang="en">Donna wants to turn a large bedroom into a wheelchair-accessible bathroom for her son Wesley, but she's running out of resources and know-how. Bryan will teach her how to make the room safe and accessible.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : DIY NETWORK HD">
+    <title lang="en">Building Alaska</title>
+    <desc lang="en">The three build teams kick off their builds in unique, remote Alaskan settings. A family legacy cabin in the Wrangell Mountains, a guest cabin in Eagle Song, and an island getaway on Shelter Island.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : DIY NETWORK HD">
+    <title lang="en">Building Alaska</title>
+    <desc lang="en">Adam and his family stake out the area for their Family Legacy cabin. Mike and his daughter finally make it off Alaska's frozen highway, only to have their build stuck in neutral. Dave and Hans complete 20 supply runs and dig holes for the foundation.</desc>
   </programme>
   <programme start="20201113010000 +0000" stop="20201113020000 +0000" channel="USA : E! HD">
     <title lang="en">Keeping Up With the Kardashians</title>
@@ -14444,6 +15174,21 @@
     <title lang="en">Basketball</title>
     <desc lang="en">Basketball.</desc>
   </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : ELEVEN SPORTS HD">
+    <title lang="en">Racemax</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115160000 +0000" channel="USA : ELEVEN SPORTS HD">
+    <title lang="en">Basketball</title>
+    <desc lang="en">Basketball.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : ELEVEN SPORTS HD">
+    <title lang="en">King of the Road</title>
+    <desc lang="en">This series focuses on the extraordinary lives of America's truckers. With great storytelling, drama and lifestyle insights from hard-working Americans this series presents an America that many people never get to experience.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115173000 +0000" channel="USA : ELEVEN SPORTS HD">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Auto racing. F4 United States Championship.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : ESPN NEWS HD">
     <title lang="en">Relentless: Terence Crawford</title>
   </programme>
@@ -14668,6 +15413,23 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : ESPN NEWS HD">
     <title lang="en">The Pulse: Texas A&amp;amp;M Football</title>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : ESPN NEWS HD">
+    <title lang="en">The Season: Ole Miss Football</title>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : ESPN NEWS HD">
+    <title lang="en">The Season: Ole Miss Football</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : ESPN NEWS HD">
+    <title lang="en">Adventure Racing</title>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : ESPN NEWS HD">
+    <title lang="en">World of X Games</title>
+    <desc lang="en">A variety of X-Games and athlete-focused content.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : ESPN NEWS HD">
+    <title lang="en">World of X Games</title>
+    <desc lang="en">Top Moments from Ski and Snowboard Big Air and Knuckle Huck at X Games Norway 2020.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113030000 +0000" channel="USA : ESPN U HD">
     <title lang="en">Football</title>
     <desc lang="en">Football.</desc>
@@ -14814,6 +15576,18 @@
   <programme start="20201115110000 +0000" stop="20201115130000 +0000" channel="USA : ESPN U HD">
     <title lang="en">Soccer</title>
     <desc lang="en">Women's Semifinal.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115150000 +0000" channel="USA : ESPN U HD">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Women's Semifinal.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : ESPN U HD">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">After the final whistle, College Football Final takes a look at the night's games through highlights and looks at the major storylines headed into next week's slate.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : ESPN U HD">
+    <title lang="en">College Football Final</title>
+    <desc lang="en">After the final whistle, College Football Final takes a look at the night's games through highlights and looks at the major storylines headed into next week's slate.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : FIGHT NETWORK HD">
     <title lang="en">Mixed Martial Arts</title>
@@ -14994,6 +15768,26 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : FIGHT NETWORK HD">
     <title lang="en">TNA in 60</title>
     <desc lang="en">A condensed look at the biggest matches, moments and stars from TNA Wrestling.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FIGHT NETWORK HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FIGHT NETWORK HD">
+    <title lang="en">Boxing World Weekly</title>
+    <desc lang="en">News, highlights, previews and profiles from the world of professional boxing.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FIGHT NETWORK HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FIGHT NETWORK HD">
+    <title lang="en">Retrospective</title>
+    <desc lang="en">Combat sports fighters and personalities relive pivotal moments in their careers.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : FIGHT NETWORK HD">
+    <title lang="en">Impact Wrestling</title>
+    <desc lang="en">We feature addictive storylines and awe-inspiring athleticism. Watch your favourite larger than life personalities including Rob Van Dam, Rhino, Moose, Sami Callihan, Eddie Edwards, Rich Swann, the high-flying X-Division and many more.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
     <title lang="en">Lou Dobbs Tonight</title>
@@ -15281,6 +16075,34 @@
     <title lang="en">Maria Bartiromo's Wall Street</title>
     <desc lang="en">Bret Baier presents an in-depth analysis of the Moscow Summit, which involved President Ronald Reagan meeting with leader Mikhail Gorbachev and speaking directly with the citizens of the Soviet Union for the first time.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">Lou Dobbs Tonight</title>
+    <desc lang="en">This hard-hitting newscast, featuring stories from the worlds of politics and world affairs, focuses on the stories that matter most to America. Interviews with newsmakers offer insight into on-going debates.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">Maria Bartiromo's Wall Street</title>
+    <desc lang="en">Bret Baier presents an in-depth analysis of the Moscow Summit, which involved President Ronald Reagan meeting with leader Mikhail Gorbachev and speaking directly with the citizens of the Soviet Union for the first time.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">WSJ at Large With Gerry Baker</title>
+    <desc lang="en">A weekly program featuring host Gerry Baker interviewing major industry leaders impacting Wall Street, Washington and business in America.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">Barron's Roundtable</title>
+    <desc lang="en">A weekly primetime series that features interviews with investors and major industry leaders about what to expect in the week ahead on Wall Street.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">Maria Bartiromo's Wall Street</title>
+    <desc lang="en">Bret Baier presents an in-depth analysis of the Moscow Summit, which involved President Ronald Reagan meeting with leader Mikhail Gorbachev and speaking directly with the citizens of the Soviet Union for the first time.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">WSJ at Large With Gerry Baker</title>
+    <desc lang="en">A weekly program featuring host Gerry Baker interviewing major industry leaders impacting Wall Street, Washington and business in America.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOX BUSINESS NETWORK HD">
+    <title lang="en">Barron's Roundtable</title>
+    <desc lang="en">A weekly primetime series that features interviews with investors and major industry leaders about what to expect in the week ahead on Wall Street.</desc>
+  </programme>
   <programme start="20201113010000 +0000" stop="20201113020000 +0000" channel="USA : FOX HD">
     <title lang="en">Tarde Redonda</title>
     <desc lang="en">Acompanhe as principais notícias do mundo do esporte com muita interatividade.</desc>
@@ -15481,17 +16303,13 @@
     <title lang="en">Moto GP</title>
     <desc lang="en">Acompanhe a melhor cobertura dos eventos de Moto GP.</desc>
   </programme>
-  <programme start="20201115143000 +0000" stop="20201115145500 +0000" channel="USA : FOX HD">
-    <title lang="en">Pré-Jogo</title>
-    <desc lang="en">Veja os preparativos para a partida.</desc>
+  <programme start="20201115141000 +0000" stop="20201115151000 +0000" channel="USA : FOX HD">
+    <title lang="en">Aqui com Benja</title>
+    <desc lang="en">Acompanhe uma entrevista com o atual treinador do Vasco da Gama.</desc>
   </programme>
-  <programme start="20201115145500 +0000" stop="20201115170000 +0000" channel="USA : FOX HD">
-    <title lang="en">Campeonato Inglês</title>
-    <desc lang="en">Acompanhe as partidas do Campeonato Inglês de Futebol.</desc>
-  </programme>
-  <programme start="20201115170000 +0000" stop="20201115172500 +0000" channel="USA : FOX HD">
-    <title lang="en">Pré-Jogo</title>
-    <desc lang="en">Veja os preparativos para a partida.</desc>
+  <programme start="20201115151000 +0000" stop="20201115171500 +0000" channel="USA : FOX HD">
+    <title lang="en">Campeonato Espanhol</title>
+    <desc lang="en">Acompanhe as partidas do Campeonato Espanhol de Futebol da Primeira Divisão.</desc>
   </programme>
   <programme start="20201115172500 +0000" stop="20201115193000 +0000" channel="USA : FOX HD">
     <title lang="en">Campeonato Inglês</title>
@@ -15836,6 +16654,14 @@
     <title lang="en">Boxing</title>
     <desc lang="en">Amilcar Vidal vs. Edward Ortiz.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS HD 2">
+    <title lang="en">Westminster Masters Agility Championship</title>
+    <desc lang="en">From Pier 94 in New York City, NY.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS HD 2">
+    <title lang="en">The Westminster Kennel Club Dog Show</title>
+    <desc lang="en">See highlights of the annual dog show held at Madison Square Garden, New York City.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FOX SPORTS MIDWEST">
     <title lang="en">Remembering Gibby</title>
   </programme>
@@ -16073,6 +16899,30 @@
   </programme>
   <programme start="20201115120000 +0000" stop="20201115140000 +0000" channel="USA : FOX SPORTS MIDWEST">
     <title lang="en">Tennis</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">Golf Life</title>
+    <desc lang="en">Travel around the U.S. to see unique and entertaining aspects of the golf lifestyle.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">18 Holes</title>
+    <desc lang="en">Taking viewers to some of the country's most luxurious golf courses and providing tips.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">Swing Clinic</title>
+    <desc lang="en">Golf tips, strategy and products.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">Forbes SportsMoney</title>
+    <desc lang="en">Mike Ozanian discusses the financial side of professional sports teams.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">A weekly in-depth preview and analysis of each NFL game, statistics and key match-ups.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS MIDWEST">
+    <title lang="en">Destination Polaris</title>
+    <desc lang="en">ATV riding experts travel to North America's best destinations and discover new trails.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FOX SPORTS NORTH">
     <title lang="en">Made for the Outdoors</title>
@@ -16397,6 +17247,38 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS PRIMETICKET">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : FOX SPORTS SOCCER PLUS HD">
     <title lang="en">Rugby</title>
     <desc lang="en">New South Wales vs. Queensland.</desc>
@@ -16531,6 +17413,14 @@
   </programme>
   <programme start="20201115110000 +0000" stop="20201115130000 +0000" channel="USA : FOX SPORTS SOCCER PLUS HD">
     <title lang="en">Soccer</title>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS SOCCER PLUS HD">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Round of 16.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS SOCCER PLUS HD">
+    <title lang="en">Soccer</title>
+    <desc lang="en">Round of 16.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
     <title lang="en">Epic Trails</title>
@@ -16735,6 +17625,36 @@
     <title lang="en">Epic Trails</title>
     <desc lang="en">Eric Hanson explores the incredible backpacking trails that surround the town of Revelstoke.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Alabama Bass Trail</title>
+    <desc lang="en">Highlights, coverage, interviews and more from the Alabama Bass Trail are showcased.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Hook the Future</title>
+    <desc lang="en">Captain Don Dingman teaches kids the tricks of angling.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Let's Fish Southeast</title>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">O'Neill Outside</title>
+    <desc lang="en">Dedicated to providing information about fishing and hunting in the outdoors.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Pro Football Weekly</title>
+    <desc lang="en">A weekly in-depth preview and analysis of each NFL game, statistics and key match-ups.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Three Wide Life</title>
+    <desc lang="en">A behind-the-scenes motor sports show covering everything from NASCAR, Indy Car and NHRA to grassroots racing across America, showcasing the superstars, local stars and future stars of racing.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Sports Stars of Tomorrow</title>
+    <desc lang="en">Features on some of the best high school athletes from around the country. Interview with Tennessee quarterback commit Kaidon Salter from Cedar Hill, TX.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS SOUTH EAST">
+    <title lang="en">Gamecock Football With Coach Will Muschamp</title>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
     <title lang="en">We're Not Going Home</title>
   </programme>
@@ -16928,6 +17848,36 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
     <title lang="en">Pro Football Weekly</title>
     <desc lang="en">A weekly in-depth preview and analysis of each NFL game, statistics and key match-ups.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">The Star at Night</title>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Golf Life</title>
+    <desc lang="en">Travel around the U.S. to see unique and entertaining aspects of the golf lifestyle.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Sweetwater</title>
+    <desc lang="en">Miles meets up with Ted Lincoln to break down the Kissimmee Chain while Joey hunts down some Florida pigs of his own.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Chad Hoover Fishing</title>
+    <desc lang="en">Chad fishes for big bass on Florida's Palm Coast.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Texans 360</title>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FOX SPORTS SOUTH WEST">
+    <title lang="en">Texans Extra Points</title>
+    <desc lang="en">A weekly reporter roundtable discussing the hot topics surrounding the Texans.</desc>
   </programme>
   <programme start="20201113020000 +0000" stop="20201113023000 +0000" channel="USA : FOX SPORTS WEST">
     <title lang="en">Good Sports</title>
@@ -17463,6 +18413,14 @@
     <title lang="en">Life-Size 2: A Christmas Eve</title>
     <desc lang="en">A young woman's childhood doll comes to life to help her get back on track.</desc>
   </programme>
+  <programme start="20201115140500 +0000" stop="20201115154000 +0000" channel="USA : FREEFORM HD">
+    <title lang="en">Santa's Apprentice</title>
+    <desc lang="en">Santa doesn't want to retire, but rules are rules and he must train someone to replace him. The lucky winner, to be chosen from among millions of children, must be named Nicholas, be an orphan and have a pure heart.</desc>
+  </programme>
+  <programme start="20201115154000 +0000" stop="20201115175000 +0000" channel="USA : FREEFORM HD">
+    <title lang="en">Deck the Halls</title>
+    <desc lang="en">Buddy Hall and Steve Finch are two feuding neighbours, who try to prove to the other that they have more Holiday spirit by overly decorating their houses.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FUSE HD">
     <title lang="en">Everybody Hates Chris</title>
     <desc lang="en">Chris thwarts Malvo's attempt at stealing a gold chain from Vanessa and Malvo gives Chris one day, or suffer the consequences, to produce a replacement necklace. Rochelle discovers Julius has been hiding a credit card from her.</desc>
@@ -17899,6 +18857,38 @@
     <title lang="en">Struggle Gourmet</title>
     <desc lang="en">Dariany Santana and comedian James Davis hot box a $300 pork chop.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Like, Share, Dimelo</title>
+    <desc lang="en">Sasha and Dee ask what defines feminism.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Like, Share, Dimelo</title>
+    <desc lang="en">Sasha and Dee discuss finding their cultural identity.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FUSE HD">
+    <title lang="en">That White People S---</title>
+    <desc lang="en">Keraun learns how the sausage is made when he gets buzzed with a beekeeper, yolked with an ostrich farmer and udderly too close to a goat.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FUSE HD">
+    <title lang="en">That White People S---</title>
+    <desc lang="en">King Keraun takes a look at things white people love.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Malcolm in the Middle</title>
+    <desc lang="en">Lois sets out to prove her innocence after a policeman impounds her car for unpaid fines.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Malcolm in the Middle</title>
+    <desc lang="en">After experiencing excruciating stomach pains, Malcolm is admitted to the hospital.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Malcolm in the Middle</title>
+    <desc lang="en">Hal and Reese take father-son cooking lessons to spend quality time together.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FUSE HD">
+    <title lang="en">Malcolm in the Middle</title>
+    <desc lang="en">Reese's grades become a major issue and Lois decides to enlist Malcolm as his tutor.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113033000 +0000" channel="USA : FX HD">
     <title lang="en">Transformers: Age of Extinction</title>
     <desc lang="en">Four years after the Decepticon invasion of Chicago, the Autobots are in hiding, with the government hunting them down as threats. When a mechanic stumbles across a deactivated Optimus Prime, he becomes wrapped up in the conflict between man and machine.</desc>
@@ -18082,6 +19072,22 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : FX HD">
     <title lang="en">Mike &amp;amp; Molly</title>
     <desc lang="en">Molly's thrilled when she is accepted into an elite eight-week writer's workshop in Iowa, but when Mike asks her not to go and leave him for the entire summer, Molly questions whether or not to pass up her opportunity of a lifetime.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FX HD">
+    <title lang="en">Mike &amp;amp; Molly</title>
+    <desc lang="en">Molly returns home after eight weeks at a writing workshop with great news: she's getting published and scored a big book advance.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FX HD">
+    <title lang="en">Mike &amp;amp; Molly</title>
+    <desc lang="en">Molly has writer's block and she might lose her big advance if she doesn't cure it fast.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115160000 +0000" channel="USA : FX HD">
+    <title lang="en">300: Rise of an Empire</title>
+    <desc lang="en">An account of the second Persian invasion of Greece in 480-479 BC. A Greek general attempts to unite all of Greece by leading an attack against the invading Persian army led by an immortal and the vengeful commander of the Persian army.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115183000 +0000" channel="USA : FX HD">
+    <title lang="en">Sicario</title>
+    <desc lang="en">An idealistic FBI agent is recruited to help track down an anonymous drug lord and aid in the war on drugs at the Mexico-U.S. border area.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FXX HD">
     <title lang="en">The Simpsons</title>
@@ -18446,6 +19452,10 @@
   <programme start="20201115123000 +0000" stop="20201115143000 +0000" channel="USA : FXX HD">
     <title lang="en">Searching</title>
     <desc lang="en">After his teenage daughter goes missing, a father begins scouring the contents of her laptop and online presence in a search for clues that can help him find her, but he soon discovers that he doesn't know his daughter as well as he'd thought.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115170000 +0000" channel="USA : FXX HD">
+    <title lang="en">White Boy Rick</title>
+    <desc lang="en">A teen who's tired of his dead-end life becomes the FBI's youngest ever informant in Detroit's 1980s crack epidemic, but once he's deep in the city's criminal underbelly his handlers abandon him, leaving the boy to be just another drug dealer.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : FYI HD">
     <title lang="en">Counting Cars</title>
@@ -18879,6 +19889,38 @@
     <title lang="en">Duck Dynasty</title>
     <desc lang="en">Willie receives a special gift from a Japanese business associate - a "priceless" samurai sword, which Willie keeps out of the hands of Jase and the guys.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">When the Robertsons throw a Casino Night party to celebrate selling their five-millionth duck call, Si wins the grand prize and buys a massage chair for the duck call room. Unfortunately, the chair impedes productivity. Also, the guys go fishing.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Due to construction at Jase and Missy's house, Willie and Korie invite Jase and the kids to live with them while Missy is out of town visiting friends.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Because of a termite problem at Duck Commander, the guys are forced to find a different location to work from -- Godwin's House.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Sadie and John Luke are getting dental work done, and Willie and Korie must take care of them.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Si discovers YouTube, and, after watching a series of instructional videos, decides he can make something better.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Willie and Jase debate over which of them cooks the best burger, prompting them to challenge one another to a cooking contest.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">Willie gets a soft serve machine for himself, but tells the others they can't use it until they are done working. Jase finds this unfair and finds a better object to use as motivation: an Argo ATV he buys on the company dime.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : FYI HD">
+    <title lang="en">Duck Dynasty</title>
+    <desc lang="en">John Luke volunteers to give a speech, but Willie can't help but give him some public speaking pointers, along with Si's unwanted help. Meanwhile, Miss Kay enlists Korie and Sadie's help to pick out a nice outfit.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : GINX ESPORTS TV HD">
     <title lang="en">SQUAD</title>
     <desc lang="en">SQUAD will recap Esports events, break down the most amazing plays, discuss hot topics in the world of gaming, preview upcoming games and events, and even get in some playtime themselves in studio.</desc>
@@ -19229,6 +20271,26 @@
     <title lang="en">Daily Download</title>
     <desc lang="en">The latest eSports news, stars, stories and debates are provided.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : GINX ESPORTS TV HD">
+    <title lang="en">Ant &amp;amp; Sav vs. The World</title>
+    <desc lang="en">Ant and Sav got things off to a mediocre start last week, as they finished tied 1-1 against The World. Now, it's time for their second battle as they step foot on the fighting ground that is 'Brawlhalla.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : GINX ESPORTS TV HD">
+    <title lang="en">RL Central</title>
+    <desc lang="en">Fun, enthusiastic, knowledgeable personalities discuss everything Rocket League.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : GINX ESPORTS TV HD">
+    <title lang="en">RL Central</title>
+    <desc lang="en">Fun, enthusiastic, knowledgeable personalities discuss everything Rocket League.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : GINX ESPORTS TV HD">
+    <title lang="en">The First Hour</title>
+    <desc lang="en">It's time to don power suits, dig out shields and grab hammers to play Marvel's Avengers on this week's First Hour.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : GINX ESPORTS TV HD">
+    <title lang="en">SQUAD</title>
+    <desc lang="en">SQUAD will recap Esports events, break down the most amazing plays, discuss hot topics in the world of gaming, preview upcoming games and events, and even get in some playtime themselves in studio.</desc>
+  </programme>
   <programme start="20201113020000 +0000" stop="20201113110000 +0000" channel="USA : GOLF HD">
     <title lang="en">Live From the Masters</title>
     <desc lang="en">Comprehensive news coverage surrounding the Masters tournament focusing on emerging storylines, analysis, features and guest interviews.</desc>
@@ -19536,6 +20598,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : HALLMARK DRAMA HD">
     <title lang="en">Little House on the Prairie</title>
     <desc lang="en">A culture clash develops when Percival's father insists that Nellie's child follow the Jewish faith.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : HALLMARK DRAMA HD">
+    <title lang="en">Little House on the Prairie</title>
+    <desc lang="en">Laura and Almanzo take care of his brother's two young sons.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : HALLMARK DRAMA HD">
+    <title lang="en">Little House on the Prairie</title>
+    <desc lang="en">Joe moves to town to do some serious courting of Hester Sue, the blind school teacher.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : HALLMARK DRAMA HD">
+    <title lang="en">Little House on the Prairie</title>
+    <desc lang="en">Angered by Mrs. Oleson's interference, Laura quits her job and Mrs. Oleson takes over.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : HALLMARK DRAMA HD">
+    <title lang="en">Little House on the Prairie</title>
+    <desc lang="en">An escapade with the boys results in an innocent 14-year-old girl being branded a tease.</desc>
   </programme>
   <programme start="20201113010000 +0000" stop="20201113030000 +0000" channel="USA : HALLMARK HD">
     <title lang="en">Christmas with the Darlings</title>
@@ -20192,6 +21270,22 @@
     <title lang="en">Cats</title>
     <desc lang="en">Based on the musical 'Cats,' this film tells the story of a society of cats in London competing for a chance to be granted a new life at a yearly ceremony.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115135800 +0000" channel="USA : HBO 2 HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">Orphan Lyra Belacqua's world is upended by her long-absent uncle's return from the North, while the glamorous Mrs. Coulter visits Jordan College with a proposition.</desc>
+  </programme>
+  <programme start="20201115135800 +0000" stop="20201115145700 +0000" channel="USA : HBO 2 HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">Lyra arrives to her new life in London, determined to find Roger with Mrs. Coulter's help. The Gyptians continue their search for the missing children and the elusive Gobblers.</desc>
+  </programme>
+  <programme start="20201115145700 +0000" stop="20201115155600 +0000" channel="USA : HBO 2 HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">Following her kidnapping, Lyra finds help from an unlikely place, which helps her put together more about her past and keep safe from Mrs. Coulter and the Magisterium.</desc>
+  </programme>
+  <programme start="20201115155600 +0000" stop="20201115165600 +0000" channel="USA : HBO 2 HD">
+    <title lang="en">His Dark Materials</title>
+    <desc lang="en">Lyra and the Gyptians arrive in the North, and seek the help of the Witches' Consul, Texan aeronaut Lee Scoresby and an armored bear in service to the town.</desc>
+  </programme>
   <programme start="20201113020000 +0000" stop="20201113023000 +0000" channel="USA : HBO EAST HD">
     <title lang="en">The Cost of Winning</title>
     <desc lang="en">Follow the against-all-odds story of St. Frances Academy's football program.</desc>
@@ -20566,6 +21660,18 @@
   <programme start="20201115121900 +0000" stop="20201115133700 +0000" channel="USA : HBO FAMILY HD">
     <title lang="en">The Adventures of the Panda Warrior</title>
     <desc lang="en">An ancient Chinese soldier travels to a world of magic where he is transformed into a panda warrior and takes on a sinister snake lord.</desc>
+  </programme>
+  <programme start="20201115133700 +0000" stop="20201115145700 +0000" channel="USA : HBO FAMILY HD">
+    <title lang="en">Battle for Terra</title>
+    <desc lang="en">A peaceful alien planet faces destruction when humans, fleeing war and an environmental catastrophe, decide to live there.</desc>
+  </programme>
+  <programme start="20201115145700 +0000" stop="20201115162600 +0000" channel="USA : HBO FAMILY HD">
+    <title lang="en">Walking With Dinosaurs</title>
+    <desc lang="en">Follow the lives of three pachyrhinosaurus friends from infancy to adulthood. Set 70 million years ago, the film draws accurately on the most recent paleontological findings.</desc>
+  </programme>
+  <programme start="20201115162600 +0000" stop="20201115175900 +0000" channel="USA : HBO FAMILY HD">
+    <title lang="en">Astro Boy</title>
+    <desc lang="en">After the death of his son, a scientist designs a robot to replace him. The robot's incredible powers make him a well-known superhero and the only thing that can save Earth from aliens.</desc>
   </programme>
   <programme start="20201113001000 +0000" stop="20201113014000 +0000" channel="USA : HBO WEST HD">
     <title lang="en">Octavio Is Dead</title>
@@ -21217,6 +22323,38 @@
     <title lang="en">Counting Cars</title>
     <desc lang="en">Trouble finds Danny when he makes a reckless buy at an auction.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Tasked with building a custom bike for a disabled man, Danny and his team must figure out a way to tackle a tricky transformation.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny tries to score an ex-police motorcycle without getting busted, while a water main break threatens to put the shop permanently under water.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny decides to host a huge car show at his club Vamp'd to drum up business and get the local gearheads together. He brings along a classic Harley he's turned into a hardtail chopper in hopes of flipping it for a big profit.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Danny and the gang head to the Las Vegas Speedway for Ford Mustang's 50th Anniversary Celebration and the Count gets the rare chance to co-pilot one of Shelby's newest projects.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">A customer wants to trick out his 2004 Harley-Davidson Road Glide, but both Shannon and Ryan aren't sure they can do everything he wants. A fellow collector drops by dangling a rare 1970 Lincoln Mark III in front of Danny, who can't wait to take her out.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Mike buys a Smart car and wants to trick it out at the shop, but Kevin warns that Danny hates new cars and can't find out about it until it's done. Danny and Kevin go for a spin in Kevin's new Caddy and come across a 1939 Ford.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">Mike gifts all the guys with their own drifter trikes, under one condition; they must customize them, and then race them at the local track. Everyone is up to the challenge, everyone except Kevin.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : HISTORY HD">
+    <title lang="en">Counting Cars</title>
+    <desc lang="en">It seems every time Danny finds a project for the shop, he winds up keeping it. Now Ryan and Kevin are determined to find a car Danny will actually fix up, and flip.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : HLN HD">
     <title lang="en">Forensic Files</title>
     <desc lang="en">The shooting of a man during a hunting trip is reopened years after the incident, and the victim's hunting partner becomes a suspect.</desc>
@@ -21577,6 +22715,22 @@
     <title lang="en">HLN Weekend Express</title>
     <desc lang="en">News of the day mixed with lifestyle segments, plus weather, sports and enlightening guests.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : HLN HD">
+    <title lang="en">HLN Weekend Express</title>
+    <desc lang="en">News of the day mixed with lifestyle segments, plus weather, sports and enlightening guests.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : HLN HD">
+    <title lang="en">HLN Weekend Express</title>
+    <desc lang="en">News of the day mixed with lifestyle segments, plus weather, sports and enlightening guests.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : HLN HD">
+    <title lang="en">HLN Weekend Express</title>
+    <desc lang="en">News of the day mixed with lifestyle segments, plus weather, sports and enlightening guests.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : HLN HD">
+    <title lang="en">HLN Weekend Express</title>
+    <desc lang="en">News of the day mixed with lifestyle segments, plus weather, sports and enlightening guests.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : IFC HD">
     <title lang="en">Two and a Half Men</title>
     <desc lang="en">Alan plans an intimate night at a hotel with his new girlfriend. Meanwhile, Charlie finds a different way to have a girlfriend experience.</desc>
@@ -21800,6 +22954,38 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : IFC HD">
     <title lang="en">Saved by the Bell</title>
     <desc lang="en">Zack and Screech decide to invest in a 900-telephone number to make some money.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">Zack is jealous that Slater knows how to drive and sets out to get him in trouble.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">Zack hires an actor to play his dad for Mr. Belding so he won't get in as much trouble.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">The school holds the annual Miss Bayside Beauty Contest.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">Mr. Belding wants Zack to join the Cadet Corps and help recruit students.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">Zack decides to take over the school store and sell calendars of the girls' swim team.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">Zack gets a Native American tutor; tragedy puts his life and heritage into perspective.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : IFC HD">
+    <title lang="en">Saved by the Bell</title>
+    <desc lang="en">While Screech's parents are away attending an Elvis convention, the guys have a party.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115184500 +0000" channel="USA : IFC HD">
+    <title lang="en">Event Horizon</title>
+    <desc lang="en">In 2046, a team is sent to investigate a spaceship that has resurfaced after many years.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
     <title lang="en">Betrayed</title>
@@ -22044,6 +23230,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
     <title lang="en">The Interrogator</title>
     <desc lang="en">Three members of a tight-knit family are brutally murdered in broad daylight while working at their family owned car dealership. After an intense four-month investigation, Fil Waters boils it down to a scorned woman and an eyewitness who saw the killer.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
+    <title lang="en">The Interrogator</title>
+    <desc lang="en">When two Yellow Cab drivers are murdered in under a week, the city of Houston is thrown into a frenzy. Detective Fil Waters soon learns that there are recordings of the same female voice luring the drivers to their deaths.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
+    <title lang="en">Murder Chose Me</title>
+    <desc lang="en">The cold-blooded execution of an affable middle-aged couple sends shockwaves of fear through their normally quiet community. Clues are scarce, until Demery and Mayfield uncover a cache of threatening text messages from a pair of mysterious numbers.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
+    <title lang="en">Murder Chose Me</title>
+    <desc lang="en">A mysterious accident on Christmas eve leaves Tony Holden with a fatal neck injury, but the case is left unsolved. When Demery is called upon to reopen the investigation, he discovers a conspiracy between the most unexpected of accomplices.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : INVESTIGATION DISCOVERY HD">
+    <title lang="en">Murder Chose Me</title>
+    <desc lang="en">Demery is called to the scene of a deadly roadside shootout. When the smoke clears, he realizes the victim is someone he loves. Then, an unidentified corpse hidden in the trunk of an abandoned sedan opens the door to a tragic mystery.</desc>
   </programme>
   <programme start="20201113010000 +0000" stop="20201113030300 +0000" channel="USA : LIFETIME HD">
     <title lang="en">A Welcome Home Christmas</title>
@@ -22541,6 +23743,26 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : MAVTV HD">
     <title lang="en">Brand New Muscle Car: Classic Bronco</title>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115150000 +0000" channel="USA : MAVTV HD">
+    <title lang="en">Auto Racing Classics</title>
+    <desc lang="en">Super Formula Championship. 2019.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : MAVTV HD">
+    <title lang="en">Tuning 365 Show</title>
+    <desc lang="en">Featuring the latest news, interviews and tours from across the aftermarket scene.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : MAVTV HD">
+    <title lang="en">All Out Live</title>
+    <desc lang="en">Sixteen finalists are chosen to compete in a Hot Lap competition for thousands of dollars in cash and prizes and to be crowned the 'ALL OUT Racing' class champion.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : MAVTV HD">
+    <title lang="en">Classic Restos</title>
+    <desc lang="en">Fletch takes viewers through his restoration projects.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115173000 +0000" channel="USA : MAVTV HD">
+    <title lang="en">Operation Green Flag</title>
+    <desc lang="en">Canadian dirt, oval and pavement racing are showcased.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : MOTOR TREND HD">
     <title lang="en">Bitchin' Rides</title>
     <desc lang="en">A '94 Impala arrives for a modern upgrade, but the shop will have to up their game to bring this police cruiser up to date. A purple '69 Mustang challenges the mechanical know-how of the shop and metal fabricator Kris shows off an original Hot Rod.</desc>
@@ -22862,6 +24084,34 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : MOTOR TREND HD">
     <title lang="en">Iron Resurrection</title>
     <desc lang="en">With a deadline quickly approaching, the shop struggles to fit a gigantic ex-NFL player into a tiny 1967 Chevy C10. This oversized job includes a customized leather interior, automated bed cover and a transformative paint job.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Lokar Car Show</title>
+    <desc lang="en">Check out a rare collection of privately-owned classics and exotics.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Motorhead Garage TV</title>
+    <desc lang="en">Dave and the crew find great UTV products to improve and protect your ride.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Texas Metal</title>
+    <desc lang="en">Bill and the guys are known for their custom metal work, but the transformation of a 1940 International Harvester water truck into a mobile barbecue pit tests all their skills. A 1986 C-10 is a family heirloom that's remade for future generations.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Two Guys Garage</title>
+    <desc lang="en">Automotive experts share their expertise on a variety of automotive tech issues.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Truck U</title>
+    <desc lang="en">Matt and Bruno have a new LJ Jeep in the shop to get some performance goodies and other cool styling options. Matt thinks it's a good idea to put it through the mud, but Bruno is not so sure. He thinks it's more of a Mall Crawler than a Mud Crawler.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">Car Fix</title>
+    <desc lang="en">The guys bring in a C10 stepside, LS3 powered, with a four-link suspension.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : MOTOR TREND HD">
+    <title lang="en">All Girls Garage</title>
+    <desc lang="en">Bogi and Faye show how performance modifications can improve an Alfa Romeo Giulia.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113023000 +0000" channel="USA : MTV 2 HD">
     <title lang="en">Varsity Blues</title>
@@ -23250,6 +24500,30 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : MTV 2 HD">
     <title lang="en">Fear Factor</title>
     <desc lang="en">Ludacris challenges teams of siblings to conquer their fears of cockroaches in Roachella and to take a trip to the morgue. They must survive being trapped under ice to win $50,000.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Fear Factor</title>
+    <desc lang="en">Lifelong besties put their friendships through the ultimate tests by participating in a series of challenges, facing acid shooting beasts, a fear of drowning and rescuing their cell phones from extremely high heights.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Fear Factor</title>
+    <desc lang="en">Ludacris is taking four teams of parents and their kids on a Road Trip From Hell.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Tosh.0</title>
+    <desc lang="en">Daniel saves a driver from suffering a thermal and mental breakdown, proves that knives are dangerous in the right hands and learns how to speak pruper Angloosh good.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Tosh.0</title>
+    <desc lang="en">Daniel meets a man who became trail mix for bears, talks to the most talented sound machine who isn't from Miami and runs down a list of Hollywood's most horrifying hooves.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163300 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Tosh.0</title>
+    <desc lang="en">Daniel meets a strong African-American woman named Woah Vicky, attends a born-again baptism and offers the heartfelt apology you've been waiting for.</desc>
+  </programme>
+  <programme start="20201115163300 +0000" stop="20201115170500 +0000" channel="USA : MTV 2 HD">
+    <title lang="en">Tosh.0</title>
+    <desc lang="en">Daniel meets the world's loneliest life hacker, belts out some eight-bit bangers and offers a friendly reminder that you can never trust the white man.</desc>
   </programme>
   <programme start="20201113020000 +0000" stop="20201113060000 +0000" channel="USA : MTV CLASSIC HD">
     <title lang="en">I Want My '80s</title>
@@ -23778,6 +25052,38 @@
     <title lang="en">Ridiculousness</title>
     <desc lang="en">Rob, Steelo, and Chanel explore the Windy City, use the new rideshare service Zoober, and learn the truth about male birth control.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rob dedicates Whisky Throttle and Bear Trap videos to Nitro Circus stunt man, Streetbike Tommy.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Chanel and Sterling CX are here to choose their weapons, get better friends and impress a group of scream queens.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rob, Chanel and Sterling are joined all the way from the UK by YouTube's Sam Sadler to rock out to some 'pins and needles' and get 'scared forever.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rob, Sterling, and Chanel enjoy some dirty getaways.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rapper Juicy J gets everyone to 'Bounce It,' and shows why for some girls it's just 'Not Twerking Out.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Rob, Stee-Lo and Chanel get surprised by some 'Wookiees,' face off with some 'Murder Machines' and watch the destruction from some explosive 'Ticking Time Moms.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">Singer-songwriter Elle King joins Rob, Steelo, and Chanel to get dumped in 'Wrecked Exes', get past the bouncer in 'Bar Bargin', and to lose a few teeth in 'Chiplets'.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : MTV HD">
+    <title lang="en">Ridiculousness</title>
+    <desc lang="en">On an all-new episode of Ridiculousness, Rob, Chanel and Steelo pick up a few 'aggressive hitchhikers', wrestle with their 'inner demons', and beg our viewers to 'drop the camera'.</desc>
+  </programme>
   <programme start="20201113010000 +0000" stop="20201113020000 +0000" channel="USA : MTV LIVE HD">
     <title lang="en">Storytellers</title>
     <desc lang="en">Bruce Springsteen treats fans to an intimate performance including songs from his latest album Devils and Dust as well as classics. Also included are questions from the fans as well as a new interview with Springsteen and the stories behind the songs.</desc>
@@ -24170,6 +25476,26 @@
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : NAT GEO HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : NAT GEO HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : NAT GEO HD">
+    <title lang="en">Nazi Megastructures: Russia's War</title>
+    <desc lang="en">The story of Hitler's invasion of Russia and the clash of arms at fortress Sevastopol.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : NAT GEO HD">
+    <title lang="en">Nazi Megastructures</title>
+    <desc lang="en">The story of Kursk, the greatest tank battle in history.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : NAT GEO HD">
+    <title lang="en">Nazi Megastructures</title>
+    <desc lang="en">The story of the fighting retreat of the Nazis from the Baltic to the heart of Berlin.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : NAT GEO WILD HD">
     <title lang="en">Critter Fixers: Country Vets</title>
     <desc lang="en">The doctors are busy taking care of the rural Georgia animal population.</desc>
@@ -24462,6 +25788,22 @@
     <title lang="en">Animals Gone Wild</title>
     <desc lang="en">From enraged animal assaults and impossibly unfair face-offs, to predator invasions on our turf and mistaken identities turned dangerous, witness the stories of these risk-takers and rule-breakers.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : NAT GEO WILD HD">
+    <title lang="en">Animals Gone Wild</title>
+    <desc lang="en">From macho street brawls and unrelenting aggressors, to out of control collisions and cunning animal escapes.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : NAT GEO WILD HD">
+    <title lang="en">Animals Gone Wild</title>
+    <desc lang="en">From out-of-control rampages and heroic confrontations, to no-holds-barred battles and dangerous deep-sea encounters: these are the animal world’s craziest situations.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : NAT GEO WILD HD">
+    <title lang="en">Animals Gone Wild</title>
+    <desc lang="en">From out-of-control urban conflicts and predator-on-predator clashes, these are the animal world's boldest battles.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : NAT GEO WILD HD">
+    <title lang="en">Animals Gone Wild</title>
+    <desc lang="en">See what happens when a baby elephant is surrounded by a pack of hungry lions and a parade horse reacts violently to a loud celebration.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : NBCSN HD">
     <title lang="en">American Ninja Warrior</title>
     <desc lang="en">Competitors vie to be the first American to run in the world's toughest obstacle course.</desc>
@@ -24646,6 +25988,16 @@
   <programme start="20201115123000 +0000" stop="20201115140000 +0000" channel="USA : NBCSN HD">
     <title lang="en">Motorcycle Racing</title>
     <desc lang="en">MotoGP.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : NBCSN HD">
+    <title lang="en">NASCAR The Decades</title>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115163000 +0000" channel="USA : NBCSN HD">
+    <title lang="en">Soccer</title>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : NBCSN HD">
+    <title lang="en">Mecum Top 10</title>
+    <desc lang="en">A look at the best factory drag cars to roll across the Mecum block.</desc>
   </programme>
   <programme start="20201113003000 +0000" stop="20201113012000 +0000" channel="USA : NFL NETWORK HD">
     <title lang="en">FOX NFL Thursday</title>
@@ -25056,6 +26408,26 @@
     <desc lang="en">All the highlights of the fast-paced action around the NHL every night.</desc>
   </programme>
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : NHL NETWORK HD">
+    <title lang="en">NHL Tonight</title>
+    <desc lang="en">All the highlights of the fast-paced action around the NHL every night.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : NHL NETWORK HD">
+    <title lang="en">NHL Network Ice Time</title>
+    <desc lang="en">A 'Team USA' edition of NHL Network Ice Time, the weekly show geared toward kids, features discussions with the Red Wings' Dylan Larkin and Maple Leafs' Auston Matthews, as well as a demo with the Coyotes' Derek Stepan.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : NHL NETWORK HD">
+    <title lang="en">NHL Network Ice Time</title>
+    <desc lang="en">A Vegas Golden Knights edition of NHL Network Ice Time, the weekly show geared toward kids, features discussions with Nick Holden and Jonathan Marchessault, as well as a demo with Max Pacioretty.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : NHL NETWORK HD">
+    <title lang="en">NHL Tonight</title>
+    <desc lang="en">All the highlights of the fast-paced action around the NHL every night.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : NHL NETWORK HD">
+    <title lang="en">NHL Tonight</title>
+    <desc lang="en">All the highlights of the fast-paced action around the NHL every night.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : NHL NETWORK HD">
     <title lang="en">NHL Tonight</title>
     <desc lang="en">All the highlights of the fast-paced action around the NHL every night.</desc>
   </programme>
@@ -25582,6 +26954,37 @@
     <title lang="en">Peppa Pig</title>
     <desc lang="en">The children make instruments from old packaging; Doctor Hamster talks about butterflies; Peppa and George go to the botanical gardens; Peppa and George pretend to be Vikings with Granny; Mr. Potato visits the school.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Peppa Pig</title>
+    <desc lang="en">The Carnival has come to town, and it's a chance to see all sorts of exciting people and floats.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Blue's Clues &amp;amp; You</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Santiago of the Seas</title>
+    <desc lang="en">Santi and crew will have to team up with a pirate puppy to stop Bonnie Bones and save an old friend. Enrique's new gold-digging machine threatens Lorelai's home.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">PAW Patrol</title>
+    <desc lang="en">Luke Stars goes missing before his Royal Concert in Barkingburg, and Sweetie attempts to take over the concert. Animals are over running Barkingburg Castle while the Princess is away and it's up to Ryder and the PAW Patrol to get them under control.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Abby Hatcher</title>
+    <desc lang="en">A kind little girl goes on exciting adventures to help her friends.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Butterbean's Cafe</title>
+    <desc lang="en">Butterbean and her fairy pals tell magical stories about friendship and teamwork.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Rainbow Rangers</title>
+    <desc lang="en">Dora and Boots rush to take Dora's Night Light to the library before it gets too dark for the little chickens' special story time.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : NICK JR HD">
+    <title lang="en">Bubble Guppies</title>
+    <desc lang="en">When supervillain Ms. Goo Goo starts changing everyone into babies, it’s up to Guppy Girl and Bubble Boy to stop her before they get turned into babies too.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113013000 +0000" channel="USA : NICKTOONS HD">
     <title lang="en">Fairly OddParents</title>
     <desc lang="en">It's the one year anniversary of Timmy having Cosmo and Wanda as his Godparents.</desc>
@@ -26049,6 +27452,34 @@
     <title lang="en">Teenage Mutant Ninja Turtles</title>
     <desc lang="en">Donatello breaks into a secret Kraang detention center in order to rescue Kirby O'Neil. But when he discovers they are trapped inside with a deadly mutant prisoner, he realizes that breaking in was the easy part.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">As the Turtles make a desperate assault on TCRI to shut down an alien portal, they find themselves engaging in the most difficult battle yet.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">When Shredder teams with the Kraang to receive a batch of mutagen, the Turtles' problems only get worse - even putting their friendship with April at stake.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">When the Turtles face Shredder's newest threat, an army of Robot Foot Soldiers, Karai captures Leonardo and forces him to do battle with these new and improved ninjas that can adapt to his every move.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Danger Force</title>
+    <desc lang="en">A surprise from Schowz's mom might cause Mika to fail her test on not snitching.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Side Hustle</title>
+    <desc lang="en">Lex and Presley get jobs as birthday party princesses after taking a vitamin that makes kids like vegetables. Only they end up playing princesses next to a vegetable garden.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">Unleashed</title>
+    <desc lang="en">Impressive animal acts compete for the title of 'Most Entertaining Pet.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : NICKTOONS HD">
+    <title lang="en">The Substitute</title>
+    <desc lang="en">Celebrities are transformed to go undercover as substitute teachers to surprise a class.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : OUTDOOR HD">
     <title lang="en">Bowlife</title>
     <desc lang="en">Levi is hunting a new lease in Mississippi with good friend Andy Morgan.</desc>
@@ -26408,6 +27839,38 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : OUTDOOR HD">
     <title lang="en">Jim Shockey's Uncharted: Yukon</title>
     <desc lang="en">The guides and clients make their way up to the snow-covered Yukon mountains for world class mountain caribou in the late season. Steve and Jim hunt deer in the Canadian prairies.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Beyond the Hunt</title>
+    <desc lang="en">Julie hunts elk in New Mexico with Mike of Trophy Hunting Adventures.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Bow Madness</title>
+    <desc lang="en">Tom Ware and Scott Manifold are intent on harvesting 5 years and older bucks. They show what it takes to find success on the older, more elusive giants. Also, Ryan May and David Cates will be joining in on the hunt for the mature monarchs.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Drury's Thirteen</title>
+    <desc lang="en">Professional baseball manager Mike Matheny joins up with Terry Drury in Illinois and he hits one out of the park. Also, Mark and Taylor Drury escape lockdown and head south to Texas where they close out phase seven with two bucks on the same day.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Sporting Classics</title>
+    <desc lang="en">Chris Dorsey and his brother Joe visit Argentina to experience an outdoorsman's paradise. Stag, hog, and quail are on the itinerary in this Southern Hemisphere adventure.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Territories Wild</title>
+    <desc lang="en">Join Adventure Bowhunter Tom Miranda as he travels to Argentina to hunt buffalo, capybara and more.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">The One</title>
+    <desc lang="en">Mike is in South Dakota looking for one of those prairie giants they grow at Western Ranch Outfitters.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Drop Zone</title>
+    <desc lang="en">Hal Shaffer is back in Missouri at the Drop Zone lease! He is sticking it out in hopes of tagging a Midwest bruiser with his Xpedition bow! Also, Jud Kuhn is back hunting at his old stomping grounds in West Virginia.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : OUTDOOR HD">
+    <title lang="en">Swarovski Optik Quests</title>
+    <desc lang="en">World Class Axis deer hunt with five star accommodations.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : OUTSIDE TV HD">
     <title lang="en">Locals</title>
@@ -26837,6 +28300,38 @@
     <title lang="en">In the Zone</title>
     <desc lang="en">In the Zone is the ultimate Waterman series and works with the sport's greatest athletes.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">Facing Waves</title>
+    <desc lang="en">In Montréal, explore the huge waves of the Saint Lawrence River’s Lachine Rapids and the rivers and lakes in the Eastern Townships.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">OTV Shorts</title>
+    <desc lang="en">Join us as we drop a massive MTB line, revisit the best Campfire submissions of 2018, rock climb in Spain, snowboard in British Columbia, and defend salmon habitats in Alaska.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">Xterra Adventures</title>
+    <desc lang="en">While the first XTERRA was born on the beaches of Maui in 1996, the origins of the brand go back to the late 80s.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">Dispatches</title>
+    <desc lang="en">In the jungles of Guyana, South America, the people of Rewa Village work with a group of fisherman to help sustain their community through fly fishing.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">Motion</title>
+    <desc lang="en">Red Rocks Canyon state park is only 20 minutes from downtown Las Vegas but the scenery and outdoor adventure are worlds away.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">Focused</title>
+    <desc lang="en">Professional athletes document their experiences in exotic locations.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">OTV Shorts</title>
+    <desc lang="en">Night skiing in Nepal, Cam Zink works on new lines, snorkeling, wingsuit flying and visit the Whole Enchilada for a ski, snowboard and bike journey.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : OUTSIDE TV HD">
+    <title lang="en">OTV Shorts</title>
+    <desc lang="en">Surf with Kelly Slater and John Florence, meet mountain biker, Kaylee Gibb and join Marcus Caston on a skiing adventure.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : OWN HD">
     <title lang="en">20/20 on ID Presents: Homicide</title>
     <desc lang="en">Todd Winkler goes on trial for the murder of his 32-year-old wife Rachel and the fiery accident his previous wife was involved in, comes back to haunt him.</desc>
@@ -27105,6 +28600,22 @@
     <title lang="en">Dr. Phil</title>
     <desc lang="en">Dr. Phil sends seven teen girls and their mothers to live together. These teens say they have been bullied or have been bullies to others. See what happens when they are all under one roof. Dr. Phil hopes this will help them learn about their actions.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : OWN HD">
+    <title lang="en">Dr. Phil</title>
+    <desc lang="en">Jessica claims that her mother, Patricia, is lying about having brain cancer. She says that she wants attention and sympathy in her career as a record weight lifter. Dr. Phil will try to mend this relationship and discover the truth.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : OWN HD">
+    <title lang="en">Dr. Phil</title>
+    <desc lang="en">Dr. Phillip McGraw offers advice about behaviour and provides his guests with the tools they need to lead more positive lives.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : OWN HD">
+    <title lang="en">Dr. Phil</title>
+    <desc lang="en">Dorothy says she moved her sister, Denise, and niece, Tanyadawn, away from the bad neighborhood where Tanyadawn grew up in order to fulfill her dying mother’s last wish.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : OWN HD">
+    <title lang="en">Super Soul Sunday</title>
+    <desc lang="en">Oprah sits down with contemporary theologian and author Father Richard Rohr about how we can reconnect to our true self by overcoming the many ways in which our ego blocks our path.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : OXYGEN HD">
     <title lang="en">Snapped</title>
     <desc lang="en">A Canadian woman gets caught up in a love triangle and a murder investigation.</desc>
@@ -27345,6 +28856,22 @@
     <title lang="en">Dateline</title>
     <desc lang="en">A young, pregnant woman is found dead in her bedroom just months after marrying her high school sweetheart. Investigators soon uncover secret lives and simmering feuds swirling around her murder.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : OXYGEN HD">
+    <title lang="en">Snapped</title>
+    <desc lang="en">A contractor’s murder leads to another death, three arrests and a shocking motive.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : OXYGEN HD">
+    <title lang="en">Snapped</title>
+    <desc lang="en">A young wife finds her husband dead, but police soon uncover a twisted web of lies and murder.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : OXYGEN HD">
+    <title lang="en">Snapped</title>
+    <desc lang="en">Years after the tragic shooting of his father, a young man reveals the depths of his mother’s cruelty.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : OXYGEN HD">
+    <title lang="en">Snapped</title>
+    <desc lang="en">Michelle seemed to have a perfect life of wealth and success, until her husband is found shot in his own bed.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113030000 +0000" channel="USA : PARAMOUNT NETWORK HD">
     <title lang="en">Shooter</title>
     <desc lang="en">A sniper who was abandoned behind enemy lines is called back to service when a plot to assassinate the president is revealed.</desc>
@@ -27512,6 +29039,14 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : PARAMOUNT NETWORK HD">
     <title lang="en">Paid Program</title>
     <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115160000 +0000" channel="USA : PARAMOUNT NETWORK HD">
+    <title lang="en">Pain and Gain</title>
+    <desc lang="en">A Miami bodybuilder and two friends resort to kidnapping and extortion to obtain the American dream.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115183000 +0000" channel="USA : PARAMOUNT NETWORK HD">
+    <title lang="en">2 Guns</title>
+    <desc lang="en">After a bank robbery, two men find themselves in the middle of a corruption scheme as they are blackmailed and hunted by both sides of the law.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : PBS HD">
     <title lang="en">PBS NewsHour</title>
@@ -27870,6 +29405,22 @@
     <title lang="en">Wild Kratts</title>
     <desc lang="en">When the keys to the Tortuga are dropped in the ocean, Chris and Martin use osprey creature powers.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : PBS HD">
+    <title lang="en">Nature</title>
+    <desc lang="en">Family is everything for primates. Meet devoted monkey dads, playmate apes and tender troops.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : PBS HD">
+    <title lang="en">Nova</title>
+    <desc lang="en">Experts carve a temple-tomb to find out how the ancient people of Petra built their city of stone.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : PBS HD">
+    <title lang="en">Secrets of the Dead</title>
+    <desc lang="en">The underwater secrets of a decadent seaside city where Nero and Julius Caesar had villas are explored.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : PBS HD">
+    <title lang="en">Sinking Cities</title>
+    <desc lang="en">Discover why London’s Thames Barrier is no longer enough to keep the city safe from climate challenges. The system was once successful, but now London must explore both low-tech fixes and some of the most advanced solutions in the world.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : POP HD">
     <title lang="en">House</title>
     <desc lang="en">When an office building collapses, House has to work fast to diagnose a young woman, Megan, who survived the disaster. Due to her injuries, Megan's only form of communication is blinking.</desc>
@@ -28077,6 +29628,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : POP HD">
     <title lang="en">Scorpion</title>
     <desc lang="en">While en route to Toby and Happy's honeymoon, Team Scorpion's plane crash lands on a remote deserted island, leaving them all with little hope for rescue.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : POP HD">
+    <title lang="en">Scorpion</title>
+    <desc lang="en">Three weeks after they crash land on a desert island, tensions run high for the team when they must battle to overcome their relationship obstacles with each other in order to be rescued.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : POP HD">
+    <title lang="en">Scorpion</title>
+    <desc lang="en">Team Scorpion must work with their old nemesis Mark Collins in order to prevent the extinction of mankind. Also, Walter and Paige awkwardly navigate their new relationship.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : POP HD">
+    <title lang="en">Scorpion</title>
+    <desc lang="en">Team Scorpion continues to work with their nemesis, Mark Collins, in order to prevent an extinction event that could end humanity. Also, Cabe's last-minute decision while on the case leads to the possible end of his career.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : POP HD">
+    <title lang="en">Scorpion</title>
+    <desc lang="en">When poachers almost kill a pregnant endangered deer, Team Scorpion recreates the animal’s womb to try to save it and its baby’s life.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : SCIENCE HD">
     <title lang="en">Phantom Signals</title>
@@ -28362,6 +29929,38 @@
     <title lang="en">How It's Made</title>
     <desc lang="en">Spiral stairs, pita bread, exhaust headers and moulded limestone artworks are made.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Glass sculptures, racing pulley systems, inductors, and medicine balls.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">How headphones, reflector light bulbs and diving regulators are made.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Mark Tewksbury shows viewers how some familiar objects of everyday life are made.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Mark Tewksbury shows viewers how some familiar objects of everyday life are made.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Looking at how surgical instruments, Ketchup, double-decker buses, and walking sticks are made.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Solid state drives; eye shadow; limousines; dead blow hammers.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Learn how police badges, rum, car washes, and pressure gauges are made.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : SCIENCE HD">
+    <title lang="en">How It's Made</title>
+    <desc lang="en">Find out how orthodontic retainers, orange juice, retractable saunas, and sawmill knives are made.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113013000 +0000" channel="USA : SEC NETWORK HD">
     <title lang="en">Basketball</title>
     <desc lang="en">Basketball.</desc>
@@ -28532,6 +30131,18 @@
   </programme>
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : SEC NETWORK HD">
     <title lang="en">The All-American Cuban Comet</title>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : SEC NETWORK HD">
+    <title lang="en">SEC Football Final</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : SEC NETWORK HD">
+    <title lang="en">SEC Football Final</title>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : SEC NETWORK HD">
+    <title lang="en">SEC Football Final</title>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : SEC NETWORK HD">
+    <title lang="en">SEC Football Final</title>
   </programme>
   <programme start="20201113004000 +0000" stop="20201113010000 +0000" channel="USA: SHOW_WWE">
     <title lang="en">WWE Story Time</title>
@@ -29434,6 +31045,38 @@
   <programme start="20201115110000 +0000" stop="20201115130000 +0000" channel="USA : SPORTS MAN HD">
     <title lang="en">FLW Fishing</title>
     <desc lang="en">It’s the championship round of FLW Fishing pro circuit.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Saltwater Experience</title>
+    <desc lang="en">Captains Tom and Rich are joined by two key figures in the success of Hawks Cay.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Ray Van Horn's Captains Journey</title>
+    <desc lang="en">Captain Ray Van Horn and Captain Jason Catchings hunt big bull redfish in Louisiana.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Into the Blue</title>
+    <desc lang="en">Scott and Steve explore the waters around Hawk's Cay.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">In-Fisherman TV</title>
+    <desc lang="en">The team goes into the wilderness of Quebec for beautiful and feisty brook trout. Plus, they share advice on fine-tuning finesse lure options and tackle for smallmouths.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Spear Life</title>
+    <desc lang="en">Jon, Gary, and Coby head to Clearwater Beach for some spearfishing.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Dead Meat</title>
+    <desc lang="en">Scott meets up with Greg Long to hunt critters less eaten.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Brotherhood Outdoors</title>
+    <desc lang="en">Adam Rule hunts waterfowl in Saskatchewan.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : SPORTS MAN HD">
+    <title lang="en">Winchester Deadly Passion</title>
+    <desc lang="en">This year Melissa Bachman opts for something a little different and the success keeps coming in Colorado at Story Creek Outfitters.</desc>
   </programme>
   <programme start="20201113020000 +0000" stop="20201113040200 +0000" channel="USA : STARZ EAST HD">
     <title lang="en">Charlie's Angels</title>
@@ -30400,6 +32043,22 @@
     <title lang="en">Monk</title>
     <desc lang="en">An acrobat wearing a facemask murders a sarcastic and unpopular ringmaster.</desc>
   </programme>
+  <programme start="20201115124500 +0000" stop="20201115134500 +0000" channel="USA : SUNDANCE HD">
+    <title lang="en">Monk</title>
+    <desc lang="en">In an attempt to stabilize his marriage, Captain Stottlemeyer redecorates his office.</desc>
+  </programme>
+  <programme start="20201115134500 +0000" stop="20201115144500 +0000" channel="USA : SUNDANCE HD">
+    <title lang="en">Monk</title>
+    <desc lang="en">Sharona's sister, Gail, lands a part in a local play that any actress would kill for.</desc>
+  </programme>
+  <programme start="20201115144500 +0000" stop="20201115154500 +0000" channel="USA : SUNDANCE HD">
+    <title lang="en">Monk</title>
+    <desc lang="en">Monk is convinced that he knows who is behind a recent string of mail bombs in San Francisco.</desc>
+  </programme>
+  <programme start="20201115154500 +0000" stop="20201115174500 +0000" channel="USA : SUNDANCE HD">
+    <title lang="en">Airplane!</title>
+    <desc lang="en">A traumatized veteran must save the day when an airplane crew gets food poisoning.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113020000 +0000" channel="USA : SYFY HD">
     <title lang="en">The Legend of Hercules</title>
     <desc lang="en">The demigod Hercules grows into a man with incredible strength and falls in love with a princess who is betrothed to his brother. Betrayed by the king and sold into slavery, Hercules must fight his way back to the kingdom he is destined to save.</desc>
@@ -30559,6 +32218,38 @@
   <programme start="20201115101500 +0000" stop="20201115131400 +0000" channel="USA : SYFY HD">
     <title lang="en">The Mortal Instruments: City of Bones</title>
     <desc lang="en">A line of angel warriors protect our world from demons.</desc>
+  </programme>
+  <programme start="20201115131400 +0000" stop="20201115134500 +0000" channel="USA : SYFY HD">
+    <title lang="en">The Twilight Zone</title>
+    <desc lang="en">The school headmaster makes the oldest teacher feel worthless when he's ordered to retire.</desc>
+  </programme>
+  <programme start="20201115134500 +0000" stop="20201115140000 +0000" channel="USA : SYFY HD">
+    <title lang="en">Hell Den</title>
+    <desc lang="en">Andrew's sister returns, but she's head-spinningly different. Oh, boy.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : SYFY HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : SYFY HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : SYFY HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : SYFY HD">
+    <title lang="en">Paid Program</title>
+    <desc lang="en">Paid programming.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : SYFY HD">
+    <title lang="en">The Twilight Zone</title>
+    <desc lang="en">Agnes Grep, a lowlife jobless woman, is visited by her guardian angel.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : SYFY HD">
+    <title lang="en">The Twilight Zone</title>
+    <desc lang="en">A man stumbles into an amusement park, where he meets a younger version of his boy.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : TBS HD">
     <title lang="en">The Big Bang Theory</title>
@@ -30928,6 +32619,38 @@
     <title lang="en">Everybody Loves Raymond</title>
     <desc lang="en">Ray questions his manliness when everyone agrees that he's useless in an emergency.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : TBS HD">
+    <title lang="en">Everybody Loves Raymond</title>
+    <desc lang="en">Ray must choose whom to take along with him to the Super Bowl, his brother or Debra.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : TBS HD">
+    <title lang="en">Everybody Loves Raymond</title>
+    <desc lang="en">Ray is mortified when he realizes that his mother read the journal he kept as a teenager.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : TBS HD">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Trouble ensues when Jerry and Elaine play matchmaker for George by setting him up with Elaine's single friend.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : TBS HD">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Jerry tracks down a driver after witnessing a hit-and-run, and soon becomes the go-between. George has an affair with Elaine's friend. Kramer has violent reactions to Mary Hart's voice.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : TBS HD">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Kramer poses for a painting. George feels obligated to buy something when he visits an art studio. Elaine's refusal to remove an Orioles baseball cap gets her thrown out of the owner's box at Yankee Stadium.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : TBS HD">
+    <title lang="en">Seinfeld</title>
+    <desc lang="en">Jerry's car clanks after Elaine and George borrow it to go shopping at the flea market.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : TBS HD">
+    <title lang="en">Miracle Workers</title>
+    <desc lang="en">Al and Maggie go to a music festival. Prince Chauncley deals with a temperamental rock star.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : TBS HD">
+    <title lang="en">Miracle Workers</title>
+    <desc lang="en">Al sues the crown. Prince Chauncley makes an unexpected breakthrough with his father.</desc>
+  </programme>
   <programme start="20201113003600 +0000" stop="20201113021200 +0000" channel="USA : TCM HD">
     <title lang="en">Bocados de realidad (?)</title>
   </programme>
@@ -31292,6 +33015,30 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
     <title lang="en">Noticias Telemundo Fin de semana</title>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : TELEMUNDO LOS ANGELES">
+    <title lang="en">Programa pagado</title>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : THE WEATHER CHANNEL HD">
     <title lang="en">Weather Underground</title>
     <desc lang="en">A breakdown of the science behind today's weather with fan interaction and frequent visits from guest meteorologists.</desc>
@@ -31543,6 +33290,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : THE WEATHER CHANNEL HD">
     <title lang="en">AMHQ Weekend</title>
     <desc lang="en">The science and stories of weather, plus in-depth forecasts with a focus on weekend weather.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : THE WEATHER CHANNEL HD">
+    <title lang="en">AMHQ Weekend</title>
+    <desc lang="en">The science and stories of weather, plus in-depth forecasts with a focus on weekend weather.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : THE WEATHER CHANNEL HD">
+    <title lang="en">Weekend Recharge</title>
+    <desc lang="en">The latest news and weather to prepare for the weekend.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : THE WEATHER CHANNEL HD">
+    <title lang="en">Weekend Recharge</title>
+    <desc lang="en">The latest news and weather to prepare for the weekend.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : THE WEATHER CHANNEL HD">
+    <title lang="en">Weekend Recharge</title>
+    <desc lang="en">The latest news and weather to prepare for the weekend.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : TLC HD">
     <title lang="en">Dr. Pimple Popper</title>
@@ -31848,6 +33611,30 @@
     <title lang="en">Say Yes to the Dress</title>
     <desc lang="en">Liz is in the salon with Danielle Jonas, and wants to show off her new body. Courtney Cason said yes to Mark Zunino's sketch, but now it's time to try on the real gown. Jillian wants a fashion forward dress but her mom isn't making it easy.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Emily and her very opinionated father want the perfect princess ball gown for her big day. Bride Danielle's father passed away, and she hopes to find a gown he would have loved.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Sometimes when Kleinfeld is closed the salon will specially open the doors for clients with unlimited budgets to have private appointments with their designers. Pnina Tornai meets individually with three budget-less brides for a record-breaking day.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Alexis has searched everywhere for a certain gown, only to now find it's double her budget. Jenna's dream dress turns into a nightmare when it's $7,000 over budget. Lauren is committed to going over budget on her see-through bodice.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Danielle's size 34, J-cup chest is blowing her budget sky high. Stephanie wants to show off the goods, but her mother certainly does not. Christie purchased a dress to flaunt her bust, but after losing weight, she hopes it still does.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Randy's mom visits for her 93rd birthday, and she's happy to share her fiery opinions with everyone shopping at Kleinfeld. Timid bride Courtney's appointment gets hijacked by her very provocative mother. Katie needs a gown suitable for two big secrets.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : TLC HD">
+    <title lang="en">Say Yes to the Dress</title>
+    <desc lang="en">Bride Nik, rock star and former bass player for Prince, needs a one-of-a-kind dress for her aerial wedding ceremony. Teddi's wedding is only a few months away, see if this daddy's girls dress will be ready in time.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : TNT HD">
     <title lang="en">Bones</title>
     <desc lang="en">An unidentifiable body is discovered in the shower of an upscale home belonging to a young female socialite. The team learns that the victim supplied counterfeit purses to her socialite acquaintance.</desc>
@@ -32040,6 +33827,22 @@
     <title lang="en">NCIS: New Orleans</title>
     <desc lang="en">When a navy commander's car is stolen with his baby inside, the team must determine if this was a random carjacking or a targeted abduction.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : TNT HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">With no memory of the night before, Lasalle's brother, Cade, turns to NCIS for help when he finds his girlfriend's body in the trunk of his car.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : TNT HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">To send a message to Pride, Baitfish murders someone close to the NCIS team, prompting a citywide manhunt for the elusive criminal.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : TNT HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">After receiving intelligence that the ports have been breached, placing the navy and Gulf Coast in harm's way, Pride and the team follow every angle to determine what has entered their city and how they can put a stop to the Broussard Syndicate.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : TNT HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">After a military convoy is bombed on a New Orleans bridge, Pride and the team plan a dangerous undercover operation to retrieve a stolen missile and prevent an attack on a U.S. Naval ship.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : TNT WEST HD">
     <title lang="en">Bones</title>
     <desc lang="en">Brennan gets a glimpse into her own life when the body of a brilliant and career-driven surgeon is found in a rough neighbourhood with multiple fractures to her skull and no indication as to how or why she was there.</desc>
@@ -32231,6 +34034,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : TNT WEST HD">
     <title lang="en">NCIS: New Orleans</title>
     <desc lang="en">After receiving intelligence that the ports have been breached, placing the navy and Gulf Coast in harm's way, Pride and the team follow every angle to determine what has entered their city and how they can put a stop to the Broussard Syndicate.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : TNT WEST HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">After a military convoy is bombed on a New Orleans bridge, Pride and the team plan a dangerous undercover operation to retrieve a stolen missile and prevent an attack on a U.S. Naval ship.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : TNT WEST HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">While conducting an autopsy on a petty officer who is believed to have died from natural causes, an armed man enters the morgue and holds Wade, Sebastian and Danny hostage.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : TNT WEST HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">When a navy commander's car is stolen with his baby inside, the team must determine if this was a random carjacking or a targeted abduction.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : TNT WEST HD">
+    <title lang="en">NCIS: New Orleans</title>
+    <desc lang="en">With no memory of the night before, Lasalle's brother, Cade, turns to NCIS for help when he finds his girlfriend's body in the trunk of his car.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : TRAVEL CHANNEL HD">
     <title lang="en">Ghost Adventures</title>
@@ -32467,6 +34286,22 @@
   <programme start="20201115120000 +0000" stop="20201115130000 +0000" channel="USA : TRAVEL CHANNEL HD">
     <title lang="en">Strange Evidence</title>
     <desc lang="en">When cameras capture footage of a strange, human-sized egg floating in Arctic waters, some experts wonder if it's evidence of alien life; using cutting-edge technology, investigators try to reveal the true origins of this unexplained discovery.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115140000 +0000" channel="USA : TRAVEL CHANNEL HD">
+    <title lang="en">Strange Evidence</title>
+    <desc lang="en">When a strange, dried-out creature washes ashore downriver from a nuclear power plant, some experts suspect it's the mummified corpse of a mutant; using the latest science and tech, this incredible theory is put to the test.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115150000 +0000" channel="USA : TRAVEL CHANNEL HD">
+    <title lang="en">Strange Evidence</title>
+    <desc lang="en">When cameras capture footage of a swam of millions of strange creatures invading a church, some wonder if it's evidence of a grisly secret buried in the ground below. Using cutting-edge tech, experts investigate the threat this insect army poses.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115160000 +0000" channel="USA : TRAVEL CHANNEL HD">
+    <title lang="en">Strange Evidence</title>
+    <desc lang="en">Cameras capture something shocking in a cemetery: empty graves, as if the dead walked out in the middle of the night; using cutting-edge tech, experts investigate what's behind this apparent evidence of zombie activity.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : TRAVEL CHANNEL HD">
+    <title lang="en">Strange Evidence</title>
+    <desc lang="en">After cameras capture footage of a UFO over Las Vegas, officials claim it's just a meteor, but some suspect something far stranger. Using cutting-edge tech, experts investigate if it's evidence of an alien visit or a top-secret military project.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : TRU TV HD">
     <title lang="en">Impractical Jokers</title>
@@ -32908,6 +34743,34 @@
     <title lang="en">Adam Ruins Everything</title>
     <desc lang="en">Emily takes over to ruin Adam, debunking IQ tests and pointing out information Adam has gotten wrong in the past. Plus, she explains the backfire effect.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">While working at an antique shop, Michael unpacks an item with a message from beyond. Plus, he works a fundraiser where a painting raises not only money but the body of a nun.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">While working at a pool store, Michael flies on a kickboard. Then, at a pet store, he breeds hamsters from pellets. He also stuns his helper on moving day with a fiery statue.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael works in a spice shop and gets an icy treatment with his take on 'chilly flakes'. Plus, he cleans a spill at a hotel with his phone. Afterwards, at an abandoned house, he amazes his assistant by climbing through a wormhole.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At auditions, Michael wows directors with costume changes but cracks when he sings. Plus, things get sticky when he demos flying post-its. Then, Michael's co-worker's jaw drops when a shape-shifting tenant returns while they clean house.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">Top Secret Videos</title>
+    <desc lang="en">Our three NSA interns watch a man blow up his own yard as two exotic dancers trash their locker room.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">Top Secret Videos</title>
+    <desc lang="en">The Interns of the NSA suffer through their worst fear: a randomized evaluation test administered by the mysterious higher-ups.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115170000 +0000" channel="USA : TRU TV HD">
+    <title lang="en">World's Dumbest...</title>
+    <desc lang="en">Questionably brilliant innovations in portable toilets, beer-finding technology, weapon storage and wigs for newborns.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : TV LAND HD">
     <title lang="en">The Andy Griffith Show</title>
     <desc lang="en">Otis overcomes his weakness for liquor and impresses his visiting relatives.</desc>
@@ -33347,6 +35210,34 @@
   <programme start="20201115121200 +0000" stop="20201115124800 +0000" channel="USA : TV LAND HD">
     <title lang="en">The New Adventures of Old Christine</title>
     <desc lang="en">When Christine learns that Richard has been hired to remodel 'meanie mom Lindsay's bathroom, she can't help but intervene and make sure he doesn't screw up the job and risk their reputation at Ritchie's school.</desc>
+  </programme>
+  <programme start="20201115124800 +0000" stop="20201115132400 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Dorothy's son shows up, jobless and wifeless, and wanting to be a free spirit.</desc>
+  </programme>
+  <programme start="20201115132400 +0000" stop="20201115140000 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Dorothy accompanies Blanche to Atlanta for Big Daddy's funeral.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143500 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Dorothy aids a pregnant and unwed teen who was rejected by her father.</desc>
+  </programme>
+  <programme start="20201115143500 +0000" stop="20201115151000 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Rose is touting the power of positive thinking; Blanche's beau has a heart attack.</desc>
+  </programme>
+  <programme start="20201115151000 +0000" stop="20201115154500 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Miles introduces Rose to his daughter Caroline; Blanche rents a Mercedes to attract men.</desc>
+  </programme>
+  <programme start="20201115154500 +0000" stop="20201115162000 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">After digging out the family album, Sophia wants to visit their old home in Brooklyn.</desc>
+  </programme>
+  <programme start="20201115162000 +0000" stop="20201115165500 +0000" channel="USA : TV LAND HD">
+    <title lang="en">The Golden Girls</title>
+    <desc lang="en">Blanche knows she needs a pacemaker, but she fears it'll halt her sex life.</desc>
   </programme>
   <programme start="20201113020000 +0000" stop="20201113023000 +0000" channel="USA : UNIVERSAL KIDS HD">
     <title lang="en">Mighty Mike</title>
@@ -34312,6 +36203,38 @@
     <title lang="en">Martin</title>
     <desc lang="en">Martin thinks Gina wants to kill him for life insurance money.</desc>
   </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Synclaire joins an improvisational theater troupe but must masquerade as a man.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Max convinces her girlfriend to visits a new age retreat; Kahdijah meets the perfect man.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Synclaire gets even with Marco for stealing her stand-up routine.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Synclaire's dream comes true when she's offered the starring role in a television series.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115153000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Khadijah, Max and Synclaire helped Regine through an ugly situation with a married man.</desc>
+  </programme>
+  <programme start="20201115153000 +0000" stop="20201115160000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Though Regine gives Max permission to date her ex, she's furious when Max gets serious.</desc>
+  </programme>
+  <programme start="20201115160000 +0000" stop="20201115163000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Khadijah resurrects a rivalry when a high school team-mate challenges her to a rematch.</desc>
+  </programme>
+  <programme start="20201115163000 +0000" stop="20201115170000 +0000" channel="USA : VH1 HD">
+    <title lang="en">Living Single</title>
+    <desc lang="en">Max begs a former boyfriend to pose as her perfect boyfriend after he calls her up.</desc>
+  </programme>
   <programme start="20201113000000 +0000" stop="20201113010000 +0000" channel="USA : WILLOW CRICKET HD">
     <title lang="en">Cricket Highlights</title>
   </programme>
@@ -34484,6 +36407,16 @@
   </programme>
   <programme start="20201115123000 +0000" stop="20201115133000 +0000" channel="USA : WILLOW CRICKET HD">
     <title lang="en">Cricket Highlights</title>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115143000 +0000" channel="USA : WILLOW CRICKET HD">
+    <title lang="en">Cricket Highlights</title>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : WILLOW CRICKET HD">
+    <title lang="en">Cricket Preview</title>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115181000 +0000" channel="USA : WILLOW CRICKET HD">
+    <title lang="en">Cricket</title>
+    <desc lang="en">Qualifier.</desc>
   </programme>
   <programme start="20201113000000 +0000" stop="20201113003000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
     <title lang="en">Here's the Catch!</title>
@@ -34960,5 +36893,25 @@
   <programme start="20201115123000 +0000" stop="20201115130000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
     <title lang="en">Westcoast Sporting Journal</title>
     <desc lang="en">Going in search of fast moving early season Chinook salmon on Northern Vancouver Island.</desc>
+  </programme>
+  <programme start="20201115130000 +0000" stop="20201115133000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
+    <title lang="en">Lindner's Fishing Edge</title>
+    <desc lang="en">Al and Dan Lindner are in Ontario, Canada doing the one-two punch of fishing: hunting walleyes and smallmouth at the same time.</desc>
+  </programme>
+  <programme start="20201115133000 +0000" stop="20201115140000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
+    <title lang="en">Lake Commandos</title>
+    <desc lang="en">Steve and Berkley pro John see which produced the most walleyes, the live bait or soft plastics.</desc>
+  </programme>
+  <programme start="20201115140000 +0000" stop="20201115143000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
+    <title lang="en">In-Fisherman TV</title>
+    <desc lang="en">The team goes into the wilderness of Quebec for beautiful and feisty brook trout. Plus, they share advice on fine-tuning finesse lure options and tackle for smallmouths.</desc>
+  </programme>
+  <programme start="20201115143000 +0000" stop="20201115150000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
+    <title lang="en">Catching Bass With Dustin Wilks</title>
+    <desc lang="en">Dustin fishes during mid-winter in search of big bass employing a powerful technique on a large reservoir.</desc>
+  </programme>
+  <programme start="20201115150000 +0000" stop="20201115170000 +0000" channel="USA : WORLD FISGHING NETWORK HD">
+    <title lang="en">Major League Fishing's Pro Bass Tour</title>
+    <desc lang="en">Ten anglers compete for 100K on Table Rock Lake in Branson Missouri during the Bad Boy Mowers Stage 7.</desc>
   </programme>
 </tv>
