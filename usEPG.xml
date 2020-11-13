@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="USA EPG $(timestamp)" generator-info-url="usEPG">
+<tv generator-info-name="USA EPG" generator-info-url="usEPG">
   <channel id="AR:MBC-Variety">
     <display-name lang="en">AR:MBC-Variety</display-name>
     <icon src="https://raw.githubusercontent.com/bebawy6/TVLogos/master/MBC-Variety.png" />
