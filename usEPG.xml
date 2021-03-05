@@ -498,63 +498,83 @@
   </channel>
   <channel id="USA : BET JAM HD">
     <display-name lang="en">USA : BET JAM HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/bet.jams.us.png" />
   </channel>
   <channel id="USA : BET SOUL HD">
     <display-name lang="en">USA : BET SOUL HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/bet.soul.us.png" />
   </channel>
   <channel id="USA : CINEMAX EAST HD">
     <display-name lang="en">USA : CINEMAX EAST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/cinemax.eastern.us.png" />
   </channel>
   <channel id="USA : CINEMAX WEST HD">
     <display-name lang="en">USA : CINEMAX WEST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/cinemax.pacific.us.png" />
   </channel>
   <channel id="USA : CNBC WORLD HD">
     <display-name lang="en">USA : CNBC WORLD HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/cnbc.world.us.png" />
   </channel>
   <channel id="USA : COZI TV HD">
     <display-name lang="en">USA : COZI TV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/cozi.network.us.png" />
   </channel>
   <channel id="USA : NEWSY HD">
     <display-name lang="en">USA : NEWSY HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/newsy.us.png" />
   </channel>
   <channel id="USA : NICK MUSIC HD">
     <display-name lang="en">USA : NICK MUSIC HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nickmusic.us.png" />
   </channel>
   <channel id="USA : OLYMPIC CHANNEL HD">
     <display-name lang="en">USA : OLYMPIC CHANNEL HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/olympic.channel.us.png" />
   </channel>
   <channel id="USA : SHOWTIME WEST HD">
     <display-name lang="en">USA : SHOWTIME WEST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/showtime.west.us.png" />
   </channel>
   <channel id="USA : SHOWTIME EAST HD">
     <display-name lang="en">USA : SHOWTIME EAST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/showtime.showcase.eastern.us.png" />
   </channel>
   <channel id="USA : SHOWTIME SHOWCASE HD">
     <display-name lang="en">USA : SHOWTIME SHOWCASE HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/showtime.showcase.pacific.us.png" />
   </channel>
   <channel id="USA : CBSN HD">
     <display-name lang="en">USA : CBSN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/CBSN.png" />
   </channel>
   <channel id="USA : FXM HD">
     <display-name lang="en">USA : FXM HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/FXM.png" />
   </channel>
   <channel id="USA : NESN HD">
     <display-name lang="en">USA : NESN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/NESN.png" />
   </channel>
   <channel id="USA : STADIUM HD 1">
     <display-name lang="en">USA : STADIUM HD 1</display-name>
+    <icon src="https://tinyurl.com/logos4u/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD 2">
     <display-name lang="en">USA : STADIUM HD 2</display-name>
+    <icon src="https://tinyurl.com/logos4u/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD 3">
     <display-name lang="en">USA : STADIUM HD 3</display-name>
+    <icon src="https://tinyurl.com/logos4u/stadium.png" />
   </channel>
   <channel id="USA : STADIUM HD ORIGINAL">
     <display-name lang="en">USA : STADIUM HD ORIGINAL</display-name>
+    <icon src="https://tinyurl.com/logos4u/stadium.png" />
   </channel>
   <channel id="USA : ABC NEWS HD">
     <display-name lang="en">USA : ABC NEWS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/ABC NEWS.png" />
   </channel>
   <programme start="20210305000000 +0000" stop="20210305010000 +0000" channel="USA : NBC LOS ANGELES">
     <title lang="en">NBC 4 News at 4:00 p.m.</title>
@@ -35546,5 +35566,325 @@
   <programme start="20210308083000 +0000" stop="20210308103000 +0000" channel="USA : SHOWTIME SHOWCASE HD">
     <title lang="en">First Reformed</title>
     <desc lang="en">A pastor at a small rural church struggles with guilt over his son's death, an unidentified illness and his dwindling congregation, but when a pregnant woman asks him to help save her disturbed husband he discovers a way to solve all of his problems.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">CBSN HD.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">FXM HD.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">NESN HD.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 1.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 2.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD 3.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+  </programme>
+  <programme start="20210305000000 +0000" stop="20210305120000 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210305120000 +0000" stop="20210305235900 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210306000000 +0000" stop="20210306120000 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210306120000 +0000" stop="20210306235900 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210307000000 +0000" stop="20210307120000 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210307120000 +0000" stop="20210307235900 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210308000000 +0000" stop="20210308120000 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210308120000 +0000" stop="20210308235900 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
   </programme>
 </tv>
