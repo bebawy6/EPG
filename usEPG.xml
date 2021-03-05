@@ -282,165 +282,219 @@
   </channel>
   <channel id="USA : HLN HD">
     <display-name lang="en">USA : HLN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/hln.us.png" />
   </channel>
   <channel id="USA : IFC HD">
     <display-name lang="en">USA : IFC HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/independent.film.channel.us.us.png" />
   </channel>
   <channel id="USA : INVESTIGATION DISCOVERY HD">
     <display-name lang="en">USA : INVESTIGATION DISCOVERY HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/investigation.discovery.usa.eastern.us.png" />
   </channel>
   <channel id="USA : LIFETIME HD">
     <display-name lang="en">USA : LIFETIME HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/lifetime.network.us.eastern.us.png" />
   </channel>
   <channel id="USA : MAVTV HD">
     <display-name lang="en">USA : MAVTV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/mavtv.canada.ca.png" />
   </channel>
   <channel id="USA : MOTOR TREND HD">
     <display-name lang="en">USA : MOTOR TREND HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/motor.trend.us.png" />
   </channel>
   <channel id="USA : MTV 2 HD">
     <display-name lang="en">USA : MTV 2 HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/mtv.2.east.us.png" />
   </channel>
   <channel id="USA : MTV CLASSIC HD">
     <display-name lang="en">USA : MTV CLASSIC HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/mtv.classic.east.us.png" />
   </channel>
   <channel id="USA : MTV HD">
     <display-name lang="en">USA : MTV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/mtv.usa.eastern.us.png" />
   </channel>
   <channel id="USA : MTV LIVE HD">
     <display-name lang="en">USA : MTV LIVE HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/mtv.live.us.png" />
   </channel>
   <channel id="USA : NAT GEO HD">
     <display-name lang="en">USA : NAT GEO HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/national.geographic.us.eastern.us.png" />
   </channel>
   <channel id="USA : NAT GEO WILD HD">
     <display-name lang="en">USA : NAT GEO WILD HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/national.geographic.wild.us.png" />
   </channel>
   <channel id="USA : NBCSN HD">
     <display-name lang="en">USA : NBCSN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nbc.sports.network.us.png" />
   </channel>
   <channel id="USA : NFL NETWORK HD">
     <display-name lang="en">USA : NFL NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nfl.network.us.png" />
   </channel>
   <channel id="USA : NHL NETWORK HD">
     <display-name lang="en">USA : NHL NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nhl.network.usa.us.png" />
   </channel>
   <channel id="USA : NICK JR HD">
     <display-name lang="en">USA : NICK JR HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nick.jr.us.png" />
   </channel>
   <channel id="USA : NICKTOONS HD">
     <display-name lang="en">USA : NICKTOONS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/nicktoons.east.us.png" />
   </channel>
   <channel id="USA : OUTDOOR HD">
     <display-name lang="en">USA : OUTDOOR HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/outdoor.channel.us.us.png" />
   </channel>
   <channel id="USA : OUTSIDE TV HD">
     <display-name lang="en">USA : OUTSIDE TV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/outside.television.us.png" />
   </channel>
   <channel id="USA : OWN HD">
     <display-name lang="en">USA : OWN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/oprah.winfrey.network.usa.eastern.us.png" />
   </channel>
   <channel id="USA : OXYGEN HD">
     <display-name lang="en">USA : OXYGEN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/oxygen.eastern.us.png" />
   </channel>
   <channel id="USA : PARAMOUNT NETWORK HD">
     <display-name lang="en">USA : PARAMOUNT NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/paramount.network.usa.eastern.us.png" />
   </channel>
   <channel id="USA : PBS HD">
     <display-name lang="en">USA : PBS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/pbs.wmem.presque.isle.me.us.png" />
   </channel>
   <channel id="USA : POP HD">
     <display-name lang="en">USA : POP HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/pop.east.us.png" />
   </channel>
   <channel id="USA : SCIENCE HD">
     <display-name lang="en">USA : SCIENCE HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/science.us.png" />
   </channel>
   <channel id="USA : SEC NETWORK HD">
     <display-name lang="en">USA : SEC NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/sec.network.us.png" />
   </channel>
   <channel id="USA: SHOW_WWE">
     <display-name lang="en">USA: SHOW_WWE</display-name>
+    <icon src="https://tinyurl.com/logos4u/wwe.network.ca.png" />
   </channel>
   <channel id="USA : SONY MOVIES HD">
     <display-name lang="en">USA : SONY MOVIES HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/sony.movie.channel.us.png" />
   </channel>
   <channel id="USA : SPORTS MAN HD">
     <display-name lang="en">USA : SPORTS MAN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/sportsman.channel.us.png" />
   </channel>
   <channel id="USA : STARZ EAST HD">
     <display-name lang="en">USA : STARZ EAST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/starz.eastern.us.png" />
   </channel>
   <channel id="USA : STARZ EDGE  HD">
     <display-name lang="en">USA : STARZ EDGE  HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/starz.edge.eastern.us.png" />
   </channel>
   <channel id="USA : STARZ HD">
     <display-name lang="en">USA : STARZ HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/starz.eastern.us.png" />
   </channel>
   <channel id="USA : STARZ KIDS &amp;amp; FAMILY HD">
     <display-name lang="en">USA : STARZ KIDS &amp;amp; FAMILY HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/starz.kids.family.pacific.us.png" />
   </channel>
   <channel id="USA : SUNDANCE HD">
     <display-name lang="en">USA : SUNDANCE HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/sundancetv.usa.east.us.png" />
   </channel>
   <channel id="USA : SYFY HD">
     <display-name lang="en">USA : SYFY HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/syfy.pacific.us.png" />
   </channel>
   <channel id="USA : TBS HD">
     <display-name lang="en">USA : TBS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tbs.east.us.png" />
   </channel>
   <channel id="USA : TCM HD">
     <display-name lang="en">USA : TCM HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tcm.es.png" />
   </channel>
   <channel id="USA : TELEMUNDO LOS ANGELES">
     <display-name lang="en">USA : TELEMUNDO LOS ANGELES</display-name>
+    <icon src="https://tinyurl.com/logos4u/telemundo.kvea.los.angeles.ca.us.png" />
   </channel>
   <channel id="USA : THE WEATHER CHANNEL HD">
     <display-name lang="en">USA : THE WEATHER CHANNEL HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/the.weather.channel.us.png" />
   </channel>
   <channel id="USA : TLC HD">
     <display-name lang="en">USA : TLC HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tlc.usa.eastern.us.png" />
   </channel>
   <channel id="USA : TNT HD">
     <display-name lang="en">USA : TNT HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tnt.east.us.png" />
   </channel>
   <channel id="USA : TNT WEST HD">
     <display-name lang="en">USA : TNT WEST HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tnt.pacific.us.png" />
   </channel>
   <channel id="USA : TRAVEL CHANNEL HD">
     <display-name lang="en">USA : TRAVEL CHANNEL HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/travel.us.east.us.png" />
   </channel>
   <channel id="USA : TRU TV HD">
     <display-name lang="en">USA : TRU TV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/trutv.usa.east.us.png" />
   </channel>
   <channel id="USA : TV LAND HD">
     <display-name lang="en">USA : TV LAND HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/tv.land.eastern.us.png" />
   </channel>
   <channel id="USA: UFC FIGHT PASS HD">
     <display-name lang="en">USA: UFC FIGHT PASS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/ufc.us.png" />
   </channel>
   <channel id="USA : UNIVERSAL KIDS HD">
     <display-name lang="en">USA : UNIVERSAL KIDS HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/universal.kids.us.png" />
   </channel>
   <channel id="USA : USA NETWORK HD">
     <display-name lang="en">USA : USA NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/usa.network.east.us.png" />
   </channel>
   <channel id="USA : VH1 HD">
     <display-name lang="en">USA : VH1 HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/vh1.eastern.us.png" />
   </channel>
   <channel id="USA : VSIN HD">
     <display-name lang="en">USA : VSIN HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/vsin.us.png" />
   </channel>
   <channel id="USA : WE TV HD">
     <display-name lang="en">USA : WE TV HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/we.us.png" />
   </channel>
   <channel id="USA : WILLOW CRICKET HD">
     <display-name lang="en">USA : WILLOW CRICKET HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/willow.cricket.us.png" />
   </channel>
   <channel id="USA : WORLD FISGHING NETWORK HD">
     <display-name lang="en">USA : WORLD FISGHING NETWORK HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/wfn.world.fishing.network.us.png" />
   </channel>
   <channel id="USA : BET HER HD">
     <display-name lang="en">USA : BET HER HD</display-name>
+    <icon src="https://tinyurl.com/logos4u/bet.her.us.png" />
   </channel>
   <channel id="USA : BET JAM HD">
     <display-name lang="en">USA : BET JAM HD</display-name>
