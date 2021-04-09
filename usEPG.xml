@@ -576,563 +576,6 @@
     <display-name lang="en">USA : ABC NEWS HD</display-name>
     <icon src="https://tinyurl.com/logos4u/ABC NEWS.png" />
   </channel>
-  <programme start="20210408000000 +0100" stop="20210408010000 +0100" channel="USA : MLB NETWORK HD">
-    <title lang="en">The Sounds of Baseball</title>
-    <desc lang="en">A compilation of some of Jon Miller's greatest calls with additional commentary from Bob Costas and Tom Verducci.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408030000 +0100" channel="USA : MLB NETWORK HD">
-    <title lang="en">Field of Dreams</title>
-    <desc lang="en">After hearing voices, a farmer constructs a mystical baseball diamond in his cornfield. To his surprise, deceased members from the Chicago Black Sox come to the field to play baseball.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : MLB NETWORK HD">
-    <title lang="en">Quick Pitch</title>
-    <desc lang="en">All the latest baseball news, scores and highlights with a preview of upcoming matches.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : MLB NETWORK HD">
-    <title lang="en">Quick Pitch</title>
-    <desc lang="en">All the latest baseball news, scores and highlights with a preview of upcoming matches.</desc>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408033000 +0100" channel="USA : ESPN HD">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball.</desc>
-  </programme>
-  <programme start="20210408033000 +0100" stop="20210408050000 +0100" channel="USA : ESPN HD">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408010000 +0100" channel="USA : ESPN 2 HD">
-    <title lang="en">NCAA Women's Basketball Championship Studio</title>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408030000 +0100" channel="USA : ESPN 2 HD">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : ESPN 2 HD">
-    <title lang="en">McDonald's All American Games Special</title>
-    <desc lang="en">Celebrates this year's class of 48 high school basketball players, named as the very best in the country. The show will feature never-before-seen dunks and stories from this year's esteemed class.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408060000 +0100" channel="USA : ESPN 2 HD">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball. Semifinal and Championship.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408043000 +0100" channel="USA : NBA TV">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
-  </programme>
-  <programme start="20210408043000 +0100" stop="20210408053000 +0100" channel="USA : NBA TV">
-    <title lang="en">NBA Post-game Show</title>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408040000 +0100" channel="USA : BBC AMERICA HD">
-    <title lang="en">The Fifth Element</title>
-    <desc lang="en">A cab driver is pulled back into a military mission by a former superior to protect a mysterious woman who holds the key to saving Earth. Together, they retrieve four stones that represent the elements in order to stop an entity of pure evil.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408063000 +0100" channel="USA : BBC AMERICA HD">
-    <title lang="en">Jack the Giant Slayer</title>
-    <desc lang="en">A farmhand accidentally becomes responsible for opening up the gateway between humans and giants, putting the princess in jeopardy.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408021400 +0100" channel="USA : AMC HD">
-    <title lang="en">The Walking Dead</title>
-    <desc lang="en">With Maggie back at Alexandria, Carol takes Negan on a journey to minimize the increasing tension. There, Negan reflects on his late wife Lucille and the events that led him to this point.</desc>
-  </programme>
-  <programme start="20210408021400 +0100" stop="20210408032400 +0100" channel="USA : AMC HD">
-    <title lang="en">Gangs of London</title>
-    <desc lang="en">London's most powerful criminal is found dead. Nobody knows who is responsible.</desc>
-  </programme>
-  <programme start="20210408032400 +0100" stop="20210408042400 +0100" channel="USA : AMC HD">
-    <title lang="en">Talking Dead</title>
-    <desc lang="en">Jeffrey Dean Morgan, Hilarie Burton Morgan, Yvette Nicole Brown and David Leslie Johnson-McGoldrick discuss the Season 10 episode of The Walking Dead, 'Here's Negan.</desc>
-  </programme>
-  <programme start="20210408042400 +0100" stop="20210408053800 +0100" channel="USA : AMC HD">
-    <title lang="en">The Walking Dead</title>
-    <desc lang="en">With Maggie back at Alexandria, Carol takes Negan on a journey to minimize the increasing tension. There, Negan reflects on his late wife Lucille and the events that led him to this point.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408030000 +0100" channel="USA : BOOMERANG HD">
-    <title lang="en">Tom &amp;amp; Jerry</title>
-    <desc lang="en">The comedic adventures of a duelling cat and mouse that sustain a classic love/ hate relationship.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408033000 +0100" channel="USA : BOOMERANG HD">
-    <title lang="en">Scooby-Doo and Guess Who?</title>
-    <desc lang="en">The Mystery Gang is solving even bigger mysteries and meeting celebrities.</desc>
-  </programme>
-  <programme start="20210408033000 +0100" stop="20210408040000 +0100" channel="USA : BOOMERANG HD">
-    <title lang="en">Scooby-Doo and Guess Who?</title>
-    <desc lang="en">When Scooby and the gang are taking a tour of London, they run afoul of horrible screaming skulls of English legend! They team up with an eccentric man who claims to be none other than Sherlock Holmes.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408043000 +0100" channel="USA : BOOMERANG HD">
-    <title lang="en">The Powerpuff Girls</title>
-    <desc lang="en">An evil villain uses Bubbles' sweet nature against her eliminate the Powerpuff Girls.</desc>
-  </programme>
-  <programme start="20210408043000 +0100" stop="20210408050000 +0100" channel="USA : BOOMERANG HD">
-    <title lang="en">Dexter's Laboratory</title>
-    <desc lang="en">Dexter arrives to gym-class in an armored jumpsuit. And, intergalactic wrestling champion Rasslor challenges Earth's heroes to a competition. And, Dexter makes Dee Dee smarter.</desc>
-  </programme>
-  <programme start="20210408002000 +0100" stop="20210408002500 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Muppet Babies Playdate</title>
-    <desc lang="en">Summer and Kaylee lie in the grass and look for shapes in the clouds with the help of Gonzo.</desc>
-  </programme>
-  <programme start="20210408002500 +0100" stop="20210408005000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Bluey</title>
-    <desc lang="en">The adventures of Bluey, a loveable puppy who lives with her parents and little sister.</desc>
-  </programme>
-  <programme start="20210408005000 +0100" stop="20210408011500 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Mickey Mouse Clubhouse</title>
-    <desc lang="en">Celebrating the first day of spring, Mickey and Minnie organize an egg hunt.</desc>
-  </programme>
-  <programme start="20210408011500 +0100" stop="20210408014000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Puppy Dog Pals</title>
-    <desc lang="en">Bob rents a floating house on the Mississippi River with Bingo and Rolly. Bob and the Pugs go on a Wild West-themed vacation.</desc>
-  </programme>
-  <programme start="20210408014000 +0100" stop="20210408021000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Puppy Dog Pals</title>
-    <desc lang="en">After Bob has trouble learning to yodel, the Pugs decide to go on a mission to the Swiss Alps to get yodeling tips. It’s Bob’s birthday and his sister, Bonnie, is acting sneaky.</desc>
-  </programme>
-  <programme start="20210408021000 +0100" stop="20210408023500 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Bluey and Bingo help Uncle Stripe and Bandit play squash, spend the day with Nana, and Bingo has to learn to play alone.</desc>
-  </programme>
-  <programme start="20210408023500 +0100" stop="20210408030000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Bluey</title>
-    <desc lang="en">The Heelers take a trip to Hammerbarn. Bingo has an idea for a new game. By waving her featherwand she can make objects impossibly heavy. Dad eats Bingo's last chip.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408032500 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Puppy Dog Pals</title>
-    <desc lang="en">When Bob mixes up his suitcase with another traveler, the pugs head to Spain on a mission to retrieve it. Then, Bob can't find his signature instrument for the reunion of his high school rock band.</desc>
-  </programme>
-  <programme start="20210408032500 +0100" stop="20210408035500 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Puppy Dog Pals</title>
-    <desc lang="en">Bingo and Rolly head to Germany to replace the bird in Bob's cuckoo clock. While on a scuba vacation, the pugs search the coral reefs for Bob's lost diving flippers.</desc>
-  </programme>
-  <programme start="20210408035500 +0100" stop="20210408042000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Mickey Mouse Roadster Racers</title>
-    <desc lang="en">Emmy Lou meets Jinx the cat and gets the gang to help her find the kitty a new home. The Happy Helpers run Pete's junkyard while he takes his Mama out to lunch for her birthday.</desc>
-  </programme>
-  <programme start="20210408042000 +0100" stop="20210408045000 +0100" channel="USA : DISNEY JUNIOR HD">
-    <title lang="en">Mickey Mouse Roadster Racers</title>
-    <desc lang="en">During Fun-tastical Field Day, Donald tries to do all the competitions himself. The girls reunite for a race so that Clarabelle can try to become a Roadsterette.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : ELEVEN SPORTS HD">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : ELEVEN SPORTS HD">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : ELEVEN SPORTS HD">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : ELEVEN SPORTS HD">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408040000 +0100" channel="USA : ESPN U HD">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408070000 +0100" channel="USA : ESPN U HD">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball.</desc>
-  </programme>
-  <programme start="20210408002000 +0100" stop="20210408023000 +0100" channel="USA : FOX HD">
-    <title lang="en">Copa da Liga Argentina</title>
-    <desc lang="en">Acompanhe os jogos do torneio argentino de clubes.</desc>
-  </programme>
-  <programme start="20210408023000 +0100" stop="20210408030000 +0100" channel="USA : FOX HD">
-    <title lang="en">Mundo Premier League</title>
-    <desc lang="en">Um panorama completo sobre o Campeonato Inglês ao redor do mundo. As últimas notícias, curiosidades, entrevistas com jogadores e técnicos e histórias sobre a paixão do torcedor pelo futebol inglês.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408050000 +0100" channel="USA : FOX HD">
-    <title lang="en">Campeonato Português</title>
-    <desc lang="en">Cobertura da liga portuguesa de futebol.</desc>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408010000 +0100" channel="USA : FOX SPORTS HD 1">
-    <title lang="en">Boxing Classics</title>
-    <desc lang="en">Deontay Wilder vs. Chris Arreola.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408013000 +0100" channel="USA : FOX SPORTS HD 1">
-    <title lang="en">Boxing Classics</title>
-    <desc lang="en">Deontay Wilder vs. Gerald Washington.</desc>
-  </programme>
-  <programme start="20210408013000 +0100" stop="20210408020000 +0100" channel="USA : FOX SPORTS HD 1">
-    <title lang="en">Boxing Classics</title>
-    <desc lang="en">Deontay Wilder vs. Tyson Fury 2.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : FOX SPORTS HD 1">
-    <title lang="en">Boxing Classics</title>
-    <desc lang="en">Errol Spence Jr. vs. Danny Garcia.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408050000 +0100" channel="USA : FOX SPORTS HD 1">
-    <title lang="en">Bowling</title>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408003000 +0100" channel="USA : FOX SPORTS PRIMETICKET">
-    <title lang="en">Ducks Weekly</title>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408010000 +0100" channel="USA : FOX SPORTS PRIMETICKET">
-    <title lang="en">Ducks Live Pre-game</title>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408033000 +0100" channel="USA : FOX SPORTS PRIMETICKET">
-    <title lang="en">Hockey</title>
-  </programme>
-  <programme start="20210408033000 +0100" stop="20210408040000 +0100" channel="USA : FOX SPORTS PRIMETICKET">
-    <title lang="en">Ducks Live Post-game</title>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408060000 +0100" channel="USA : FOX SPORTS PRIMETICKET">
-    <title lang="en">Boxing Classics</title>
-    <desc lang="en">Lucian Bute vs. Andrea Di Luisa. August 15, 2015.</desc>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408020000 +0100" channel="USA : FOX SPORTS SOCCER PLUS HD">
-    <title lang="en">Rugby</title>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408040000 +0100" channel="USA : FOX SPORTS SOCCER PLUS HD">
-    <title lang="en">Soccer</title>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408060000 +0100" channel="USA : FOX SPORTS SOCCER PLUS HD">
-    <title lang="en">Soccer</title>
-    <desc lang="en">Semifinal.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : FOX SPORTS SOUTH WEST">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408033000 +0100" channel="USA : FOX SPORTS SOUTH WEST">
-    <title lang="en">Sports Stars of Tomorrow</title>
-    <desc lang="en">Features on some of the best high school athletes from around the country. It includes a story with rising defensive line prospect Kelvin Gilliam from Highland Springs High School in Virginia.</desc>
-  </programme>
-  <programme start="20210408033000 +0100" stop="20210408040000 +0100" channel="USA : FOX SPORTS SOUTH WEST">
-    <title lang="en">High School Spotlight</title>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : FOX SPORTS SOUTH WEST">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408010000 +0100" channel="USA : FOX SPORTS WEST">
-    <title lang="en">Strongman</title>
-    <desc lang="en">Stage 12.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : FOX SPORTS WEST">
-    <title lang="en">Strongman</title>
-    <desc lang="en">Stage 13.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : FOX SPORTS WEST">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : FOX SPORTS WEST">
-    <title lang="en">Poker</title>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : FOX SPORTS WEST">
-    <title lang="en">Mixed Martial Arts</title>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408023000 +0100" channel="USA : FX HD">
-    <title lang="en">Jumanji: Welcome to the Jungle</title>
-    <desc lang="en">While in detention, four teens find a dusty old video game. Once they fire it up, they are sucked into the game and forced into the bodies of their digital avatars. With only three lives each, they have to learn the game's rules if they hope to survive.</desc>
-  </programme>
-  <programme start="20210408023000 +0100" stop="20210408050000 +0100" channel="USA : FX HD">
-    <title lang="en">Jumanji: Welcome to the Jungle</title>
-    <desc lang="en">While in detention, four teens find a dusty old video game. Once they fire it up, they are sucked into the game and forced into the bodies of their digital avatars. With only three lives each, they have to learn the game's rules if they hope to survive.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : GOLF HD">
-    <title lang="en">Golf Central</title>
-    <desc lang="en">In-depth analysis, breaking news and highlights from throughout the world of golf.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408050000 +0100" channel="USA : GOLF HD">
-    <title lang="en">Golf</title>
-    <desc lang="en">Golf. National Final.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408030000 +0100" channel="USA : HALLMARK DRAMA HD">
-    <title lang="en">A Walton Easter</title>
-    <desc lang="en">John-Boy decides he wants to live on Walton’s Mountain, but his wife does not. Meanwhile, Elizabeth arrives home from her travels to find Drew has a girlfriend.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : HALLMARK DRAMA HD">
-    <title lang="en">The Waltons</title>
-    <desc lang="en">Elizabeth stretches the truth to her soldier pen pal, letting him think she's 18 and looks like Erin.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : HALLMARK DRAMA HD">
-    <title lang="en">The Waltons</title>
-    <desc lang="en">Elizabeth loses the use of her legs in an accident, and the Walton family members adjust to the tragedy in their own ways.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : HBO">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : HBO">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408033500 +0100" channel="USA : HBO">
-    <title lang="en">Last Week Tonight With John Oliver</title>
-    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics.</desc>
-  </programme>
-  <programme start="20210408033500 +0100" stop="20210408043500 +0100" channel="USA : HBO">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408043500 +0100" stop="20210408053500 +0100" channel="USA : HBO">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : HBO EAST HD">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : HBO EAST HD">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408033500 +0100" channel="USA : HBO EAST HD">
-    <title lang="en">Last Week Tonight With John Oliver</title>
-    <desc lang="en">Comedian John Oliver offers his satirical take on news, current events and politics.</desc>
-  </programme>
-  <programme start="20210408033500 +0100" stop="20210408043500 +0100" channel="USA : HBO EAST HD">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408043500 +0100" stop="20210408053500 +0100" channel="USA : HBO EAST HD">
-    <title lang="en">Q: Into the Storm</title>
-    <desc lang="en">Chart the journey to unmask the mastermind behind QAnon.</desc>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408022000 +0100" channel="USA : HBO FAMILY HD">
-    <title lang="en">Cats</title>
-    <desc lang="en">Based on the musical 'Cats,' this film tells the story of a society of cats in London competing for a chance to be granted a new life at a yearly ceremony.</desc>
-  </programme>
-  <programme start="20210408022000 +0100" stop="20210408040500 +0100" channel="USA : HBO FAMILY HD">
-    <title lang="en">Parental Guidance</title>
-    <desc lang="en">Three mischievous children are left under their grandparent's supervision while their parents are out of town. As the parent and grandparent's style of childcare differ, the children test just how far they can test their grandparents.</desc>
-  </programme>
-  <programme start="20210408040500 +0100" stop="20210408054300 +0100" channel="USA : HBO FAMILY HD">
-    <title lang="en">13 Going on 30</title>
-    <desc lang="en">Thirteen-year-old Jenna wishes away her youth and wakes up as a 30-year-old woman. After locating Matt, the best friend that she left behind, Jenna learns that she may have missed out on the best years of her life.</desc>
-  </programme>
-  <programme start="20210408002500 +0100" stop="20210408020000 +0100" channel="USA : HBO ZONE HD">
-    <title lang="en">Gone</title>
-    <desc lang="en">A woman is convinced her kidnapper has returned when her sister goes missing.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408033800 +0100" channel="USA : HBO ZONE HD">
-    <title lang="en">Cruel Intentions</title>
-    <desc lang="en">Two step-siblings hatch a cruel plan to mess up the lives of their innocent schoolmates.</desc>
-  </programme>
-  <programme start="20210408033800 +0100" stop="20210408050900 +0100" channel="USA : HBO ZONE HD">
-    <title lang="en">Texas Chainsaw Massacre: The Beginning</title>
-    <desc lang="en">After an accident in the middle of nowhere, two brothers and their girlfriends are taken to the sheriff's home. Once there, they soon realize that they have entered the house of a psychotic family.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408060000 +0100" channel="USA : MTV CLASSIC HD">
-    <title lang="en">120 Minutes</title>
-    <desc lang="en">A dedicated two hours of alternative music videos.</desc>
-  </programme>
-  <programme start="20210408014500 +0100" stop="20210408023000 +0100" channel="USA : NBCSN HD">
-    <title lang="en">NHL Overtime</title>
-    <desc lang="en">The one-stop destination for viewers to find the latest news in and around the National Hockey League and beyond.</desc>
-  </programme>
-  <programme start="20210408023000 +0100" stop="20210408040000 +0100" channel="USA : NBCSN HD">
-    <title lang="en">Motorcycle Racing</title>
-    <desc lang="en">MotoGP.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408063000 +0100" channel="USA : NBCSN HD">
-    <title lang="en">Mecum Auto Auctions</title>
-    <desc lang="en">Live coverage of Mecum Auto Auctions.</desc>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408003000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">Stanley Cup Films</title>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408010000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">NHL Network Ice Time</title>
-    <desc lang="en">The NHL's top players give one-on-one hockey demonstrations and in-depth conversations.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408013000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">Top Shelf</title>
-    <desc lang="en">Great plays don't discriminate but with so many games, it's nearly impossible to catch them all. This show fills in the gaps and keeps fans abreast of the latest eye-popping moves, tricks and stops so they know they haven't missed a thing.</desc>
-  </programme>
-  <programme start="20210408013000 +0100" stop="20210408030000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">NHL Tonight</title>
-    <desc lang="en">Catch in-game action, plus news from around the NHL, previews of all the games throughout the league, and real-time score updates.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">On the Fly</title>
-    <desc lang="en">Highlights, interviews, game reports and more action from the world of NHL hockey.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : NHL NETWORK HD">
-    <title lang="en">On the Fly</title>
-    <desc lang="en">Recap all the night’s exciting action from around the National Hockey League with highlights, analysis, interviews and more. This is your one-stop to catch every game, every night.</desc>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408030000 +0100" channel="USA : PARAMOUNT NETWORK HD">
-    <title lang="en">Forrest Gump</title>
-    <desc lang="en">A simple man finds himself in extraordinary situations throughout the course of his life.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408060000 +0100" channel="USA : PARAMOUNT NETWORK HD">
-    <title lang="en">Forrest Gump</title>
-    <desc lang="en">A simple man finds himself in extraordinary situations throughout the course of his life.</desc>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408003000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408010000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408013000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408013000 +0100" stop="20210408020000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408023000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408023000 +0100" stop="20210408030000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">SEC Now</title>
-    <desc lang="en">SEC Network hosts Peter Burns or Dari Nowkhah and various network analysts discuss all the SEC news of the day.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408060000 +0100" channel="USA : SEC NETWORK HD">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408034400 +0100" channel="USA : STARZ EDGE  HD">
-    <title lang="en">Once Upon A Time...In Hollywood</title>
-    <desc lang="en">In 1969 Los Angeles, a former Western star and his longtime stunt double struggle to find success in a Hollywood that they don't recognize anymore.</desc>
-  </programme>
-  <programme start="20210408034400 +0100" stop="20210408051900 +0100" channel="USA : STARZ EDGE  HD">
-    <title lang="en">Brightburn</title>
-    <desc lang="en">What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister.</desc>
-  </programme>
-  <programme start="20210408012600 +0100" stop="20210408025800 +0100" channel="USA : STARZ KIDS &amp;amp; FAMILY HD">
-    <title lang="en">Wheely</title>
-    <desc lang="en">Movie.</desc>
-  </programme>
-  <programme start="20210408025800 +0100" stop="20210408050500 +0100" channel="USA : STARZ KIDS &amp;amp; FAMILY HD">
-    <title lang="en">Into the Woods</title>
-    <desc lang="en">A baker and his wife set off into the woods in search of items that will break a witch's curse that has left them childless. They encounter several well-known fairy-tale characters from the Brothers Grimm.</desc>
-  </programme>
-  <programme start="20210408013000 +0100" stop="20210408040000 +0100" channel="USA : SYFY HD">
-    <title lang="en">Robin Hood</title>
-    <desc lang="en">When his king is killed in battle, Robin, a lowly archer, promises a dying Robin of Locksley that he will return his sword to his father in Nottingham. What Robin and his men find there is more than they bargained for.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408063000 +0100" channel="USA : SYFY HD">
-    <title lang="en">San Andreas</title>
-    <desc lang="en">When an earthquake rips open California, an LAPD search-and-rescue helicopter pilot and his ex-wife attempt to save their only daughter who's trapped in San Francisco. Though the worst of the devastation appears to be over, it's only getting started.</desc>
-  </programme>
-  <programme start="20210408012900 +0100" stop="20210408031600 +0100" channel="USA : TCM HD">
-    <title lang="en">Deuda de sangre (?)</title>
-  </programme>
-  <programme start="20210408031600 +0100" stop="20210408052600 +0100" channel="USA : TCM HD">
-    <title lang="en">Los puentes de Madison (?)</title>
-  </programme>
-  <programme start="20210408052600 +0100" stop="20210408062400 +0100" channel="USA : TCM HD">
-    <title lang="en">Un viaje con Fidel (?)</title>
-  </programme>
-  <programme start="20210408062400 +0100" stop="20210408084300 +0100" channel="USA : TCM HD">
-    <title lang="en">Los violentos de Kelly (?)</title>
-  </programme>
-  <programme start="20210408084300 +0100" stop="20210408102600 +0100" channel="USA : TCM HD">
-    <title lang="en">Kramer contra Kramer (?)</title>
-  </programme>
-  <programme start="20210408102600 +0100" stop="20210408120500 +0100" channel="USA : TCM HD">
-    <title lang="en">Lost in Translation (?)</title>
-  </programme>
-  <programme start="20210408120500 +0100" stop="20210408140100 +0100" channel="USA : TCM HD">
-    <title lang="en">El gran miércoles (?)</title>
-  </programme>
-  <programme start="20210408140100 +0100" stop="20210408153800 +0100" channel="USA : TCM HD">
-    <title lang="en">Los cuatrocientos golpes (?)</title>
-  </programme>
-  <programme start="20210408153800 +0100" stop="20210408175900 +0100" channel="USA : TCM HD">
-    <title lang="en">París, Texas (?)</title>
-  </programme>
-  <programme start="20210408175900 +0100" stop="20210408200000 +0100" channel="USA : TCM HD">
-    <title lang="en">Cinema Paradiso (?)</title>
-  </programme>
-  <programme start="20210408200000 +0100" stop="20210408213100 +0100" channel="USA : TCM HD">
-    <title lang="en">Annie Hall (?)</title>
-  </programme>
-  <programme start="20210408213100 +0100" stop="20210408231000 +0100" channel="USA : TCM HD">
-    <title lang="en">El maquinista (?)</title>
-  </programme>
-  <programme start="20210408231000 +0100" stop="20210409005000 +0100" channel="USA : TCM HD">
-    <title lang="en">Casablanca (?)</title>
-  </programme>
-  <programme start="20210408000000 +0100" stop="20210408040000 +0100" channel="USA : BET HER HD">
-    <title lang="en">The Help</title>
-    <desc lang="en">Racial barriers crumble as three women form unlikely friendships in a small American town.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408070000 +0100" channel="USA : BET HER HD">
-    <title lang="en">Lean on Me</title>
-    <desc lang="en">An unorthodox principal clashes with the state and the city as he tries to turn an inner-city school around.</desc>
-  </programme>
-  <programme start="20210408013300 +0100" stop="20210408030000 +0100" channel="USA : CINEMAX WEST HD">
-    <title lang="en">The Campaign</title>
-    <desc lang="en">Two CEOs convince a hapless local tourism director to run for congress against a disgraced incumbent in order to gain influence and power over a North Carolina district.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408045500 +0100" channel="USA : CINEMAX WEST HD">
-    <title lang="en">Dinner for Schmucks</title>
-    <desc lang="en">An executive wonders why he has been invited to a dinner party where the host celebrates the idiocy of the guests.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408040000 +0100" channel="USA : NEWSY HD">
-    <title lang="en">Newsy Tonight</title>
-    <desc lang="en">We see the news as an opportunity for discovery, to explore issues, and to find perspectives that often go overlooked.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408070000 +0100" channel="USA : NEWSY HD">
-    <title lang="en">Newsy Tonight</title>
-    <desc lang="en">We see the news as an opportunity for discovery, to explore issues, and to find perspectives that often go overlooked.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408040000 +0100" channel="USA : OLYMPIC CHANNEL HD">
-    <title lang="en">Curling</title>
-    <desc lang="en">Round Robin.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408060000 +0100" channel="USA : OLYMPIC CHANNEL HD">
-    <title lang="en">Freestyle Skiing</title>
-    <desc lang="en">Halfpipe.</desc>
-  </programme>
-  <programme start="20210408003000 +0100" stop="20210408010000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">VICE</title>
-    <desc lang="en">Thousands of migrants to the US face a grueling 60-mile hike along the Columbia-Panama border through one of the world’s most dangerous jungles. The police-worn body camera has yet to fulfill its promise as a silver bullet against police brutality.</desc>
-  </programme>
-  <programme start="20210408010000 +0100" stop="20210408020000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">Shameless</title>
-    <desc lang="en">Lip has a million projects going on, and Frank is one of them. Liam is forced to watch Frank, so the two of them embark on a journey to take down Liam's classmate in an effort to get Liam into STEM school.</desc>
-  </programme>
-  <programme start="20210408020000 +0100" stop="20210408030000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">City on a Hill</title>
-    <desc lang="en">When an assistant U.S. attorney overdoses and ends up left for dead, Decourcy Ward suspects Jackie Rohr's involvement. Jackie, in turn, goes after the BPD for a questionable drug arrest at Braxton Summit, a federal housing project.</desc>
-  </programme>
-  <programme start="20210408030000 +0100" stop="20210408033000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">VICE</title>
-    <desc lang="en">Correspondents travel the world to deliver compelling news stories from dangerous places.</desc>
-  </programme>
-  <programme start="20210408033000 +0100" stop="20210408040000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">VICE</title>
-    <desc lang="en">Correspondents travel the world to deliver compelling news stories from dangerous places.</desc>
-  </programme>
-  <programme start="20210408040000 +0100" stop="20210408050000 +0100" channel="USA : SHOWTIME WEST HD">
-    <title lang="en">Shameless</title>
-    <desc lang="en">Kev and V announce their big news. Lip has some promising leads on selling the house, forcing Debbie to re-evaluate her future and her history of regrettable love interests. Ian and Mickey try to adjust to a vastly different life on the West Side.</desc>
-  </programme>
-  <programme start="20210408013000 +0100" stop="20210408032000 +0100" channel="USA : SHOWTIME EAST HD">
-    <title lang="en">Lethal Weapon</title>
-    <desc lang="en">An unstable police officer is partnered with a veteran detective to battle drug dealers.</desc>
-  </programme>
-  <programme start="20210408032000 +0100" stop="20210408051500 +0100" channel="USA : SHOWTIME EAST HD">
-    <title lang="en">Lethal Weapon 2</title>
-    <desc lang="en">Detectives Riggs and Murtaugh pursue South African diplomats, protected by diplomatic immunity, who are smuggling drugs into the U.S.</desc>
-  </programme>
-  <programme start="20210408002000 +0100" stop="20210408024500 +0100" channel="USA : SHOWTIME SHOWCASE HD">
-    <title lang="en">Carlito's Way</title>
-    <desc lang="en">Upon his release, a former convict tries to avoid the corrupting influences of his old life.</desc>
-  </programme>
-  <programme start="20210408024500 +0100" stop="20210408043000 +0100" channel="USA : SHOWTIME SHOWCASE HD">
-    <title lang="en">Fargo</title>
-    <desc lang="en">A pregnant police chief investigates a bizarre murder and kidnapping in Minnesota.</desc>
-  </programme>
-  <programme start="20210408043000 +0100" stop="20210408062000 +0100" channel="USA : SHOWTIME SHOWCASE HD">
-    <title lang="en">Lethal Weapon</title>
-    <desc lang="en">An unstable police officer is partnered with a veteran detective to battle drug dealers.</desc>
-  </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : CBSN HD">
-    <title lang="en">CBSN HD</title>
-    <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">CBSN HD.</desc>
-  </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : CBSN HD">
-    <title lang="en">CBSN HD</title>
-    <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">CBSN HD.</desc>
-  </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : CBSN HD">
     <title lang="en">CBSN HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
@@ -1163,15 +606,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">CBSN HD.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : FXM HD">
-    <title lang="en">FXM HD</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">FXM HD.</desc>
+    <desc lang="en">CBSN HD.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : FXM HD">
-    <title lang="en">FXM HD</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : CBSN HD">
+    <title lang="en">CBSN HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">FXM HD.</desc>
+    <desc lang="en">CBSN HD.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : FXM HD">
     <title lang="en">FXM HD</title>
@@ -1203,15 +646,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">FXM HD.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : NESN HD">
-    <title lang="en">NESN HD</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">NESN HD.</desc>
+    <desc lang="en">FXM HD.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : NESN HD">
-    <title lang="en">NESN HD</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : FXM HD">
+    <title lang="en">FXM HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">NESN HD.</desc>
+    <desc lang="en">FXM HD.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : NESN HD">
     <title lang="en">NESN HD</title>
@@ -1243,15 +686,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">NESN HD.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : STADIUM HD 1">
-    <title lang="en">STADIUM HD 1</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 1.</desc>
+    <desc lang="en">NESN HD.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : STADIUM HD 1">
-    <title lang="en">STADIUM HD 1</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : NESN HD">
+    <title lang="en">NESN HD</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 1.</desc>
+    <desc lang="en">NESN HD.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : STADIUM HD 1">
     <title lang="en">STADIUM HD 1</title>
@@ -1283,15 +726,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">STADIUM HD 1.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : STADIUM HD 2">
-    <title lang="en">STADIUM HD 2</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 2.</desc>
+    <desc lang="en">STADIUM HD 1.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : STADIUM HD 2">
-    <title lang="en">STADIUM HD 2</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : STADIUM HD 1">
+    <title lang="en">STADIUM HD 1</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 2.</desc>
+    <desc lang="en">STADIUM HD 1.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : STADIUM HD 2">
     <title lang="en">STADIUM HD 2</title>
@@ -1323,15 +766,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">STADIUM HD 2.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : STADIUM HD 3">
-    <title lang="en">STADIUM HD 3</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 3.</desc>
+    <desc lang="en">STADIUM HD 2.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : STADIUM HD 3">
-    <title lang="en">STADIUM HD 3</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : STADIUM HD 2">
+    <title lang="en">STADIUM HD 2</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD 3.</desc>
+    <desc lang="en">STADIUM HD 2.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : STADIUM HD 3">
     <title lang="en">STADIUM HD 3</title>
@@ -1363,15 +806,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">STADIUM HD 3.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : STADIUM HD ORIGINAL">
-    <title lang="en">STADIUM HD ORIGINAL</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+    <desc lang="en">STADIUM HD 3.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : STADIUM HD ORIGINAL">
-    <title lang="en">STADIUM HD ORIGINAL</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : STADIUM HD 3">
+    <title lang="en">STADIUM HD 3</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">STADIUM HD ORIGINAL.</desc>
+    <desc lang="en">STADIUM HD 3.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : STADIUM HD ORIGINAL">
     <title lang="en">STADIUM HD ORIGINAL</title>
@@ -1403,15 +846,15 @@
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">STADIUM HD ORIGINAL.</desc>
   </programme>
-  <programme start="20210408000000 +0000" stop="20210408120000 +0000" channel="USA : ABC NEWS HD">
-    <title lang="en">ABC NEWS</title>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">ABC NEWS.</desc>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
   </programme>
-  <programme start="20210408120000 +0000" stop="20210408235900 +0000" channel="USA : ABC NEWS HD">
-    <title lang="en">ABC NEWS</title>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : STADIUM HD ORIGINAL">
+    <title lang="en">STADIUM HD ORIGINAL</title>
     <sub-title lang="en">Coming Soon</sub-title>
-    <desc lang="en">ABC NEWS.</desc>
+    <desc lang="en">STADIUM HD ORIGINAL.</desc>
   </programme>
   <programme start="20210409000000 +0000" stop="20210409120000 +0000" channel="USA : ABC NEWS HD">
     <title lang="en">ABC NEWS</title>
@@ -1439,6 +882,16 @@
     <desc lang="en">ABC NEWS.</desc>
   </programme>
   <programme start="20210411120000 +0000" stop="20210411235900 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210412000000 +0000" stop="20210412120000 +0000" channel="USA : ABC NEWS HD">
+    <title lang="en">ABC NEWS</title>
+    <sub-title lang="en">Coming Soon</sub-title>
+    <desc lang="en">ABC NEWS.</desc>
+  </programme>
+  <programme start="20210412120000 +0000" stop="20210412235900 +0000" channel="USA : ABC NEWS HD">
     <title lang="en">ABC NEWS</title>
     <sub-title lang="en">Coming Soon</sub-title>
     <desc lang="en">ABC NEWS.</desc>
